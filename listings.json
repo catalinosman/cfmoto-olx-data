@@ -1,37 +1,37 @@
 {
-  "updated_at": "2026-08-20T13:13:57.032043+03:00",
+  "updated_at": "2026-08-20T13:52:38.176920+03:00",
   "source": "olx.ro",
   "query": "cfmoto",
   "categories": [
     "scutere-atv-utv",
     "autoturisme"
   ],
-  "count": 696,
+  "count": 694,
   "listings": [
     {
-      "title": "CFMOTO 800   4x4",
-      "link": "https://www.olx.ro/d/oferta/cfmoto-800-4x4-IDk8f85.html",
-      "price_str": "24 689,31 lei\n\nPrețul e negociabil",
-      "price_value": 24689.31,
+      "title": "CF MOTO UFORCE1000XL 490KM ca NOU‼️(ssv,utv,sxs,segway,tgb,linhai,can am)",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-uforce1000xl-490km-ca-noussv-utv-sxs-segway-tgb-linhai-can-am-IDkMUP1.html",
+      "price_str": "75 066,01 lei",
+      "price_value": 75066.01,
       "price_currency": "RON",
-      "an": 2018,
-      "km": 7000,
+      "an": 2022,
+      "km": 490,
       "model": null,
-      "capacitate": "800 cm³",
-      "stare": "Utilizat",
-      "dotari": "ABS"
+      "capacitate": "999 cm³",
+      "stare": null,
+      "dotari": null
     },
     {
-      "title": "Atv CFMOTO CForce 1000 MUD T3b '25 SH",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-1000-mud-t3b-25-sh-IDkupHb.html",
-      "price_str": "65 505,47 lei",
-      "price_value": 65505.47,
+      "title": "Atv cf moto x5 520 eps 2025 schimb can am g2",
+      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-x5-520-eps-2025-schimb-can-am-g2-IDkOldV.html",
+      "price_str": "31 518,27 lei",
+      "price_value": 31518.27,
       "price_currency": "RON",
       "an": 2025,
-      "km": 204,
+      "km": 1900,
       "model": null,
-      "capacitate": "963 cm³",
-      "stare": "Utilizat",
+      "capacitate": "500 cm³",
+      "stare": null,
       "dotari": null
     },
     {
@@ -165,30 +165,43 @@
       "dotari": "Far LED"
     },
     {
-      "title": "De vânzare un atv cfmoto 1000 modificat",
-      "link": "https://www.olx.ro/d/oferta/de-vanzare-un-atv-cfmoto-1000-modificat-IDkQFAc.html",
-      "price_str": "39 300 lei\n\nPrețul e negociabil",
-      "price_value": 39300.0,
+      "title": "Vind ATV CF Moto 2018 4wd",
+      "link": "https://www.olx.ro/d/oferta/vind-atv-cf-moto-2018-4wd-IDkRaX7.html",
+      "price_str": "25 477,27 lei\n\nPrețul e negociabil",
+      "price_value": 25477.27,
       "price_currency": "RON",
-      "an": 2021,
-      "km": 12650,
+      "an": 2018,
+      "km": 8000,
       "model": null,
-      "capacitate": "1 000 cm³",
+      "capacitate": "550 cm³",
       "stare": "Utilizat",
+      "dotari": "Far LED"
+    },
+    {
+      "title": "SxS-uri in rate / leasing (CFMOTO,Can-am,Polaris)",
+      "link": "https://www.olx.ro/d/oferta/sxs-uri-in-rate-leasing-cfmoto-can-am-polaris-IDgb3by.html",
+      "price_str": "59 306,88 lei",
+      "price_value": 59306.88,
+      "price_currency": "RON",
+      "an": null,
+      "km": null,
+      "model": null,
+      "capacitate": null,
+      "stare": "Nou",
       "dotari": null
     },
     {
-      "title": "Vand CF MOTO 625L Touring EPS Servo impecabil",
-      "link": "https://www.olx.ro/d/oferta/vand-cf-moto-625l-touring-eps-servo-impecabil-IDkPes2.html",
-      "price_str": "31 413,21 lei",
-      "price_value": 31413.21,
+      "title": "Atv cf moto 850 touring 2025",
+      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-850-touring-2025-IDkPqki.html",
+      "price_str": "47 277,41 lei",
+      "price_value": 47277.41,
       "price_currency": "RON",
-      "an": 2022,
-      "km": 6280,
+      "an": 2025,
+      "km": 1560,
       "model": null,
-      "capacitate": "625 cm³",
+      "capacitate": "850 cm³",
       "stare": "Utilizat",
-      "dotari": null
+      "dotari": "Controlul stabilitatii (ESP), Far LED"
     },
     {
       "title": "Vand Atv Cf Moto Goes 400S",
@@ -282,29 +295,42 @@
       "dotari": null
     },
     {
-      "title": "ATV ‼️ CF MOTO GOES 1000 ‼️  90km impecabil CA NOU ( nu can am tgb linhai suzuki utv segway )",
-      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-goes-1000-90km-impecabil-ca-nou-nu-can-am-tgb-linhai-suzuki-utv-segway-IDkPie7.html",
-      "price_str": "52 477,92 lei",
-      "price_value": 52477.92,
+      "title": "ATV de copii (CFMOTO,Can-am,Polaris,Kawasaki)",
+      "link": "https://www.olx.ro/d/oferta/atv-de-copii-cfmoto-can-am-polaris-kawasaki-IDhsy3x.html",
+      "price_str": "8 352,34 lei",
+      "price_value": 8352.34,
       "price_currency": "RON",
-      "an": 2026,
-      "km": 90,
+      "an": 2025,
+      "km": null,
       "model": null,
-      "capacitate": "1 000 cm³",
+      "capacitate": null,
       "stare": "Nou",
       "dotari": null
     },
     {
-      "title": "Atv-uri SH (CFMOTO, Kawasaki, Polaris, Can-am)",
-      "link": "https://www.olx.ro/d/oferta/atv-uri-sh-cfmoto-kawasaki-polaris-can-am-IDhscif.html",
-      "price_str": "37 895,47 lei",
-      "price_value": 37895.47,
+      "title": "CF Moto 450s 2023",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-450s-2023-IDkOhMy.html",
+      "price_str": "21 012,18 lei",
+      "price_value": 21012.18,
       "price_currency": "RON",
-      "an": null,
-      "km": null,
+      "an": 2023,
+      "km": 2600,
       "model": null,
-      "capacitate": null,
-      "stare": null,
+      "capacitate": "450 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
+      "title": "Atv Cf moto 520 l 2020",
+      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-520-l-2020-IDkQv40.html",
+      "price_str": "26 265,23 lei",
+      "price_value": 26265.23,
+      "price_currency": "RON",
+      "an": 2020,
+      "km": 1900,
+      "model": null,
+      "capacitate": "495 cm³",
+      "stare": "Utilizat",
       "dotari": null
     },
     {
@@ -412,30 +438,43 @@
       "dotari": null
     },
     {
-      "title": "Lichidam stocul (CFMOTO,Ktm,Husqvarna,GasGas)",
-      "link": "https://www.olx.ro/d/oferta/lichidam-stocul-cfmoto-ktm-husqvarna-gasgas-IDgb3cw.html",
-      "price_str": "20 260,99 lei",
-      "price_value": 20260.99,
+      "title": "ATV, Motociclete, SXS SH in Rate/Leasing(CFMOTO,Husqvarna, KTM)",
+      "link": "https://www.olx.ro/d/oferta/atv-motociclete-sxs-sh-in-rate-leasingcfmoto-husqvarna-ktm-IDhscn2.html",
+      "price_str": "31 723,14 lei",
+      "price_value": 31723.14,
       "price_currency": "RON",
-      "an": null,
+      "an": 2023,
       "km": null,
       "model": null,
       "capacitate": null,
-      "stare": "Nou",
+      "stare": null,
       "dotari": null
     },
     {
-      "title": "Atv CF-MOTO  800 4x4",
-      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-800-4x4-IDk9i3j.html",
-      "price_str": "24 689,31 lei\n\nPrețul e negociabil",
-      "price_value": 24689.31,
+      "title": "Cf Moto Uforce 800 2015 BUGGY, UTV nu Cf moto (450.520,600,800,850.1000)",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-uforce-800-2015-buggy-utv-nu-cf-moto-450-520-600-800-850-1000-IDkRvty.html",
+      "price_str": "28 103,79 lei",
+      "price_value": 28103.79,
       "price_currency": "RON",
-      "an": 2014,
-      "km": 5000,
+      "an": 2015,
+      "km": 5700,
       "model": null,
-      "capacitate": null,
+      "capacitate": "800 cm³",
       "stare": "Utilizat",
-      "dotari": "Far LED"
+      "dotari": null
+    },
+    {
+      "title": "CF Moto 520 L Servo 4x4 2025 ABS nu [850 1000 625 450 can am Yamaha Suzuki kymco tgb",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-520-l-servo-4x4-2025-abs-nu-850-1000-625-450-can-am-yamaha-suzuki-kymco-tgb-IDkNZma.html",
+      "price_str": "33 041,65 lei",
+      "price_value": 33041.65,
+      "price_currency": "RON",
+      "an": 2021,
+      "km": 7700,
+      "model": null,
+      "capacitate": "600 cm³",
+      "stare": "Utilizat",
+      "dotari": "Far LED, Far Xenon"
     },
     {
       "title": "Atv cfmoto520l t3b",
@@ -503,32 +542,6 @@
       "dotari": null
     },
     {
-      "title": "Atv cf moto 850 touring 2025",
-      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-850-touring-2025-IDkPqki.html",
-      "price_str": "47 277,41 lei",
-      "price_value": 47277.41,
-      "price_currency": "RON",
-      "an": 2025,
-      "km": 1560,
-      "model": null,
-      "capacitate": "850 cm³",
-      "stare": "Utilizat",
-      "dotari": "Controlul stabilitatii (ESP), Far LED"
-    },
-    {
-      "title": "Vand atv cfmoto cforce 450s TR 2023 - 525 km!!!",
-      "link": "https://www.olx.ro/d/oferta/vand-atv-cfmoto-cforce-450s-tr-2023-525-km-IDkuDit.html",
-      "price_str": "22 062,79 lei\n\nPrețul e negociabil",
-      "price_value": 22062.79,
-      "price_currency": "RON",
-      "an": 2023,
-      "km": 525,
-      "model": null,
-      "capacitate": "400 cm³",
-      "stare": "Utilizat",
-      "dotari": null
-    },
-    {
       "title": "ATV CF Moto CForce 520L – 2018, 5230 km, stare excelentă",
       "link": "https://www.olx.ro/d/oferta/atv-cf-moto-cforce-520l-2018-5230-km-stare-excelenta-IDkR1BC.html",
       "price_str": "24 164,01 lei\n\nPrețul e negociabil",
@@ -552,6 +565,19 @@
       "model": null,
       "capacitate": "800 cm³",
       "stare": "Nou",
+      "dotari": null
+    },
+    {
+      "title": "Vand CF MOTO 625L Touring EPS Servo impecabil",
+      "link": "https://www.olx.ro/d/oferta/vand-cf-moto-625l-touring-eps-servo-impecabil-IDkPes2.html",
+      "price_str": "31 413,21 lei",
+      "price_value": 31413.21,
+      "price_currency": "RON",
+      "an": 2022,
+      "km": 6280,
+      "model": null,
+      "capacitate": "625 cm³",
+      "stare": "Utilizat",
       "dotari": null
     },
     {
@@ -594,30 +620,43 @@
       "dotari": null
     },
     {
-      "title": "CF Moto 450s 2023",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-450s-2023-IDkOhMy.html",
-      "price_str": "21 012,18 lei",
-      "price_value": 21012.18,
+      "title": "Atv Cf moto 850XC",
+      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-850xc-IDkQh3H.html",
+      "price_str": "43 600,27 lei\n\nPrețul e negociabil",
+      "price_value": 43600.27,
       "price_currency": "RON",
       "an": 2023,
-      "km": 2600,
+      "km": 2030,
       "model": null,
-      "capacitate": "450 cm³",
+      "capacitate": "800 cm³",
       "stare": "Utilizat",
       "dotari": null
     },
     {
-      "title": "ATV de copii (CFMOTO,Can-am,Polaris,Kawasaki)",
-      "link": "https://www.olx.ro/d/oferta/atv-de-copii-cfmoto-can-am-polaris-kawasaki-IDhsy3x.html",
-      "price_str": "8 352,34 lei",
-      "price_value": 8352.34,
+      "title": "Lichidam stocul (CFMOTO,Ktm,Husqvarna,GasGas)",
+      "link": "https://www.olx.ro/d/oferta/lichidam-stocul-cfmoto-ktm-husqvarna-gasgas-IDgb3cw.html",
+      "price_str": "20 260,99 lei",
+      "price_value": 20260.99,
       "price_currency": "RON",
-      "an": 2025,
+      "an": null,
       "km": null,
       "model": null,
       "capacitate": null,
       "stare": "Nou",
       "dotari": null
+    },
+    {
+      "title": "CFMOTO 800   4x4",
+      "link": "https://www.olx.ro/d/oferta/cfmoto-800-4x4-IDk8f85.html",
+      "price_str": "24 689,31 lei\n\nPrețul e negociabil",
+      "price_value": 24689.31,
+      "price_currency": "RON",
+      "an": 2018,
+      "km": 7000,
+      "model": null,
+      "capacitate": "800 cm³",
+      "stare": "Utilizat",
+      "dotari": "ABS"
     },
     {
       "title": "CfMoto Cforce 500-5A Classic Long",
@@ -631,19 +670,6 @@
       "capacitate": "500 cm³",
       "stare": null,
       "dotari": "Controlul tractiunii (ASR), Controlul stabilitatii (ESP), Far LED, ABS"
-    },
-    {
-      "title": "CFMOTO CFORCE 520L T3B | 2024 Soft AMX REMAP | 3700 km | 28.500 lei",
-      "link": "https://www.olx.ro/d/oferta/cfmoto-cforce-520l-t3b-2024-soft-amx-remap-3700-km-28-500-lei-IDkIzU8.html",
-      "price_str": "26 500 lei",
-      "price_value": 26500.0,
-      "price_currency": "RON",
-      "an": 2024,
-      "km": 3700,
-      "model": null,
-      "capacitate": "495 cm³",
-      "stare": "Utilizat",
-      "dotari": null
     },
     {
       "title": "CFMOTO CFORCE 850 X8 Touring EPS 2025 -1.750km",
@@ -669,19 +695,6 @@
       "model": null,
       "capacitate": "963 cm³",
       "stare": "Nou",
-      "dotari": null
-    },
-    {
-      "title": "Atv CFMOTO CFORCE 850 X8 Touring EPS Euro5+ '25 SH",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-850-x8-touring-eps-euro5-25-sh-IDkukHr.html",
-      "price_str": "50 902,01 lei",
-      "price_value": 50902.01,
-      "price_currency": "RON",
-      "an": 2026,
-      "km": 207,
-      "model": null,
-      "capacitate": "800 cm³",
-      "stare": "Utilizat",
       "dotari": null
     },
     {
@@ -711,17 +724,43 @@
       "dotari": null
     },
     {
-      "title": "CF MOTO UFORCE1000XL 490KM ca NOU‼️(ssv,utv,sxs,segway,tgb,linhai,can am)",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-uforce1000xl-490km-ca-noussv-utv-sxs-segway-tgb-linhai-can-am-IDkMUP1.html",
-      "price_str": "75 066,01 lei",
-      "price_value": 75066.01,
+      "title": "Scuter electric premium CFMOTO ZEEHO AE8S+, an 2024",
+      "link": "https://www.olx.ro/d/oferta/scuter-electric-premium-cfmoto-zeeho-ae8s-an-2024-IDkNhnb.html",
+      "price_str": "17 335,05 lei\n\nPrețul e negociabil",
+      "price_value": 17335.05,
       "price_currency": "RON",
-      "an": 2022,
-      "km": 490,
+      "an": 2024,
+      "km": 8500,
       "model": null,
-      "capacitate": "999 cm³",
-      "stare": null,
+      "capacitate": null,
+      "stare": "Utilizat",
+      "dotari": "ABS, Bluetooth"
+    },
+    {
+      "title": "Atv cf moto goes 500",
+      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-goes-500-IDkQZLg.html",
+      "price_str": "12 082 lei\n\nPrețul e negociabil",
+      "price_value": 12082.0,
+      "price_currency": "RON",
+      "an": 2008,
+      "km": 8050,
+      "model": null,
+      "capacitate": "500 cm³",
+      "stare": "Utilizat",
       "dotari": null
+    },
+    {
+      "title": "Atv CF-MOTO  800 4x4",
+      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-800-4x4-IDk9i3j.html",
+      "price_str": "24 689,31 lei\n\nPrețul e negociabil",
+      "price_value": 24689.31,
+      "price_currency": "RON",
+      "an": 2014,
+      "km": 5000,
+      "model": null,
+      "capacitate": null,
+      "stare": "Utilizat",
+      "dotari": "Far LED"
     },
     {
       "title": "Cf Moto x10 PREMIUM echipat cu upgrade uri Premium in stare foarte buna",
@@ -737,19 +776,6 @@
       "dotari": null
     },
     {
-      "title": "Scuter electric premium CFMOTO ZEEHO AE8S+, an 2024",
-      "link": "https://www.olx.ro/d/oferta/scuter-electric-premium-cfmoto-zeeho-ae8s-an-2024-IDkNhnb.html",
-      "price_str": "17 335,05 lei\n\nPrețul e negociabil",
-      "price_value": 17335.05,
-      "price_currency": "RON",
-      "an": 2024,
-      "km": 8500,
-      "model": null,
-      "capacitate": null,
-      "stare": "Utilizat",
-      "dotari": "ABS, Bluetooth"
-    },
-    {
       "title": "SSV CFMOTO ZFORCE 950 Sport 2026 | Finantare rapida",
       "link": "https://www.olx.ro/d/oferta/ssv-cfmoto-zforce-950-sport-2026-finantare-rapida-IDkByFs.html",
       "price_str": "71 388,88 lei",
@@ -760,6 +786,19 @@
       "model": null,
       "capacitate": "963 cm³",
       "stare": "Nou",
+      "dotari": null
+    },
+    {
+      "title": "Atv CFMOTO CFORCE 850 X8 Touring EPS Euro5+ '25 SH",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-850-x8-touring-eps-euro5-25-sh-IDkukHr.html",
+      "price_str": "50 902,01 lei",
+      "price_value": 50902.01,
+      "price_currency": "RON",
+      "an": 2026,
+      "km": 207,
+      "model": null,
+      "capacitate": "800 cm³",
+      "stare": "Utilizat",
       "dotari": null
     },
     {
@@ -789,6 +828,19 @@
       "dotari": "ABS, Alarma, Bluetooth"
     },
     {
+      "title": "CF moto 500 2A 2011",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-500-2a-2011-IDkQfXK.html",
+      "price_str": "15 759,14 lei",
+      "price_value": 15759.14,
+      "price_currency": "RON",
+      "an": 2011,
+      "km": 1950,
+      "model": null,
+      "capacitate": "500 cm³",
+      "stare": null,
+      "dotari": null
+    },
+    {
       "title": "Vând atv cf moto 520L",
       "link": "https://www.olx.ro/d/oferta/vand-atv-cf-moto-520l-IDkaIoS.html",
       "price_str": "25 687,39 lei",
@@ -813,6 +865,19 @@
       "capacitate": "550 cm³",
       "stare": "Utilizat",
       "dotari": "ABS, Controlul stabilitatii (ESP), Far LED"
+    },
+    {
+      "title": "CFMOTO CFORCE 520L T3B | 2024 Soft AMX REMAP | 3700 km | 28.500 lei",
+      "link": "https://www.olx.ro/d/oferta/cfmoto-cforce-520l-t3b-2024-soft-amx-remap-3700-km-28-500-lei-IDkIzU8.html",
+      "price_str": "26 500 lei",
+      "price_value": 26500.0,
+      "price_currency": "RON",
+      "an": 2024,
+      "km": 3700,
+      "model": null,
+      "capacitate": "495 cm³",
+      "stare": "Utilizat",
+      "dotari": null
     },
     {
       "title": "CF Moto C5 Touring",
@@ -841,6 +906,19 @@
       "dotari": null
     },
     {
+      "title": "GOES by CFMOTO Terrox 400S T3b '26",
+      "link": "https://www.olx.ro/d/oferta/goes-by-cfmoto-terrox-400s-t3b-26-IDk6a3l.html",
+      "price_str": "23 113,40 lei",
+      "price_value": 23113.4,
+      "price_currency": "RON",
+      "an": 2025,
+      "km": 2,
+      "model": null,
+      "capacitate": "400 cm³",
+      "stare": "Nou",
+      "dotari": null
+    },
+    {
       "title": "CF Moto x4 450 L",
       "link": "https://www.olx.ro/d/oferta/cf-moto-x4-450-l-IDkFT8K.html",
       "price_str": "23 638,70 lei",
@@ -854,19 +932,6 @@
       "dotari": null
     },
     {
-      "title": "ATV de copii (CFMOTO,Can-am,Polaris,Kawasaki)",
-      "link": "https://www.olx.ro/d/oferta/atv-de-copii-cfmoto-can-am-polaris-kawasaki-IDi5zwv.html",
-      "price_str": "8 352,34 lei",
-      "price_value": 8352.34,
-      "price_currency": "RON",
-      "an": 2025,
-      "km": null,
-      "model": null,
-      "capacitate": "110 cm³",
-      "stare": "Nou",
-      "dotari": null
-    },
-    {
       "title": "CF Moto touring 625",
       "link": "https://www.olx.ro/d/oferta/cf-moto-touring-625-IDk81a6.html",
       "price_str": "38 084,58 lei",
@@ -877,19 +942,6 @@
       "model": null,
       "capacitate": "580 cm³",
       "stare": "Utilizat",
-      "dotari": null
-    },
-    {
-      "title": "GOES by CFMOTO Terrox 400S T3b '26",
-      "link": "https://www.olx.ro/d/oferta/goes-by-cfmoto-terrox-400s-t3b-26-IDk6a3l.html",
-      "price_str": "23 113,40 lei",
-      "price_value": 23113.4,
-      "price_currency": "RON",
-      "an": 2025,
-      "km": 2,
-      "model": null,
-      "capacitate": "400 cm³",
-      "stare": "Nou",
       "dotari": null
     },
     {
@@ -945,6 +997,19 @@
       "dotari": "Far LED"
     },
     {
+      "title": "Atv CFMOTO CForce 1000 MUD T3b '25 SH",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-1000-mud-t3b-25-sh-IDkupHb.html",
+      "price_str": "65 505,47 lei",
+      "price_value": 65505.47,
+      "price_currency": "RON",
+      "an": 2025,
+      "km": 204,
+      "model": null,
+      "capacitate": "963 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
       "title": "Atv CFMOTO 520L 4500 km 4000 Eur",
       "link": "https://www.olx.ro/d/oferta/atv-cfmoto-520l-4500-km-4000-eur-IDkJOmt.html",
       "price_str": "21 012,18 lei",
@@ -971,45 +1036,6 @@
       "dotari": "Far LED"
     },
     {
-      "title": "Vind ATV CF Moto 2018 4wd",
-      "link": "https://www.olx.ro/d/oferta/vind-atv-cf-moto-2018-4wd-IDkRaX7.html",
-      "price_str": "25 477,27 lei\n\nPrețul e negociabil",
-      "price_value": 25477.27,
-      "price_currency": "RON",
-      "an": 2018,
-      "km": 8000,
-      "model": null,
-      "capacitate": "550 cm³",
-      "stare": "Utilizat",
-      "dotari": "Far LED"
-    },
-    {
-      "title": "Atv cf moto goes 500",
-      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-goes-500-IDkQZLg.html",
-      "price_str": "12 082 lei\n\nPrețul e negociabil",
-      "price_value": 12082.0,
-      "price_currency": "RON",
-      "an": 2008,
-      "km": 8050,
-      "model": null,
-      "capacitate": "500 cm³",
-      "stare": "Utilizat",
-      "dotari": null
-    },
-    {
-      "title": "SxS-uri in rate / leasing (CFMOTO,Can-am,Polaris)",
-      "link": "https://www.olx.ro/d/oferta/sxs-uri-in-rate-leasing-cfmoto-can-am-polaris-IDgb3by.html",
-      "price_str": "59 306,88 lei",
-      "price_value": 59306.88,
-      "price_currency": "RON",
-      "an": null,
-      "km": null,
-      "model": null,
-      "capacitate": null,
-      "stare": "Nou",
-      "dotari": null
-    },
-    {
       "title": "Vând atv CFMOTO Terralander 2019",
       "link": "https://www.olx.ro/d/oferta/vand-atv-cfmoto-terralander-2019-IDkRgW7.html",
       "price_str": "34 144,79 lei\n\nPrețul e negociabil",
@@ -1021,19 +1047,6 @@
       "capacitate": "820 cm³",
       "stare": "Utilizat",
       "dotari": "Far LED, Senzori presiune roti"
-    },
-    {
-      "title": "CF Moto 450S an 2020 automat 4x4 FARA SCHIMBURI !",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-450s-an-2020-automat-4x4-fara-schimburi-IDkR9oQ.html",
-      "price_str": "19 436,27 lei",
-      "price_value": 19436.27,
-      "price_currency": "RON",
-      "an": 2020,
-      "km": 8000,
-      "model": null,
-      "capacitate": "400 cm³",
-      "stare": "Utilizat",
-      "dotari": null
     },
     {
       "title": "Atv CFMOTO CFORCE C5 Touring EPS T3b '26",
@@ -1060,6 +1073,19 @@
       "capacitate": "495 cm³",
       "stare": "Utilizat",
       "dotari": "Controlul stabilitatii (ESP), Far LED"
+    },
+    {
+      "title": "CF Moto 450S an 2020 automat 4x4 FARA SCHIMBURI !",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-450s-an-2020-automat-4x4-fara-schimburi-IDkR9oQ.html",
+      "price_str": "19 436,27 lei",
+      "price_value": 19436.27,
+      "price_currency": "RON",
+      "an": 2020,
+      "km": 8000,
+      "model": null,
+      "capacitate": "400 cm³",
+      "stare": "Utilizat",
+      "dotari": null
     },
     {
       "title": "Cfmoto 450l  Unic Proprietar",
@@ -1098,32 +1124,6 @@
       "model": null,
       "capacitate": "400 cm³",
       "stare": "Utilizat",
-      "dotari": null
-    },
-    {
-      "title": "VEHICULE RULATE (CFMOTO,KTM,GasGas,Husqvarna,Can-am,Kawasaki)",
-      "link": "https://www.olx.ro/d/oferta/vehicule-rulate-cfmoto-ktm-gasgas-husqvarna-can-am-kawasaki-IDhscl6.html",
-      "price_str": "24 479,19 lei",
-      "price_value": 24479.19,
-      "price_currency": "RON",
-      "an": null,
-      "km": null,
-      "model": null,
-      "capacitate": null,
-      "stare": "Utilizat",
-      "dotari": null
-    },
-    {
-      "title": "Atv in rate / leasing  (CFMOTO,Segway,Polaris,GOES)",
-      "link": "https://www.olx.ro/d/oferta/atv-in-rate-leasing-cfmoto-segway-polaris-goes-IDhIlCN.html",
-      "price_str": "22 010,26 lei",
-      "price_value": 22010.26,
-      "price_currency": "RON",
-      "an": 2025,
-      "km": null,
-      "model": null,
-      "capacitate": "400 cm³",
-      "stare": "Nou",
       "dotari": null
     },
     {
@@ -1205,6 +1205,19 @@
       "dotari": null
     },
     {
+      "title": "Cf moto X10 Premium T3B 2025 – Full OFF-ROAD | Stare impecabilă.",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-x10-premium-t3b-2025-full-off-road-stare-impecabila-IDkO8YS.html",
+      "price_str": "53 581,06 lei",
+      "price_value": 53581.06,
+      "price_currency": "RON",
+      "an": 2025,
+      "km": 2800,
+      "model": null,
+      "capacitate": "1 000 cm³",
+      "stare": "Utilizat",
+      "dotari": "Bluetooth, Far LED"
+    },
+    {
       "title": "Atv cf moto 520 L 2025",
       "link": "https://www.olx.ro/d/oferta/atv-cf-moto-520-l-2025-IDjF0W3.html",
       "price_str": "31 518,27 lei",
@@ -1216,45 +1229,6 @@
       "capacitate": "520 cm³",
       "stare": "Nou",
       "dotari": null
-    },
-    {
-      "title": "Atv CFMOTO CFORCE C5 Touring EPS T3b '26",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-c5-touring-eps-t3b-26-IDkw7Yp.html",
-      "price_str": "34 039,73 lei",
-      "price_value": 34039.73,
-      "price_currency": "RON",
-      "an": 2026,
-      "km": null,
-      "model": null,
-      "capacitate": "499 cm³",
-      "stare": "Nou",
-      "dotari": null
-    },
-    {
-      "title": "ATV CFMOTO CFORCE 625L Touring EPS T3b '26",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-625l-touring-eps-t3b-26-IDi5up9.html",
-      "price_str": "39 345,31 lei",
-      "price_value": 39345.31,
-      "price_currency": "RON",
-      "an": 2026,
-      "km": null,
-      "model": null,
-      "capacitate": "580 cm³",
-      "stare": "Nou",
-      "dotari": null
-    },
-    {
-      "title": "CF Moto 520 L Servo 4x4 2025 ABS nu [850 1000 625 450 can am Yamaha Suzuki kymco tgb",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-520-l-servo-4x4-2025-abs-nu-850-1000-625-450-can-am-yamaha-suzuki-kymco-tgb-IDkNZma.html",
-      "price_str": "33 041,65 lei",
-      "price_value": 33041.65,
-      "price_currency": "RON",
-      "an": 2021,
-      "km": 7700,
-      "model": null,
-      "capacitate": "600 cm³",
-      "stare": "Utilizat",
-      "dotari": "Far LED, Far Xenon"
     },
     {
       "title": "De vanzare ! ATV Ghoes by Cf moto 400 l T3b \"26",
@@ -1309,41 +1283,15 @@
       "dotari": null
     },
     {
-      "title": "Cf moto X10 Premium T3B 2025 – Full OFF-ROAD | Stare impecabilă.",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-x10-premium-t3b-2025-full-off-road-stare-impecabila-IDkO8YS.html",
-      "price_str": "53 581,06 lei",
-      "price_value": 53581.06,
+      "title": "Vand atv CFmoto 4x4 E5",
+      "link": "https://www.olx.ro/d/oferta/vand-atv-cfmoto-4x4-e5-IDkR87Y.html",
+      "price_str": "23 638,70 lei",
+      "price_value": 23638.7,
       "price_currency": "RON",
-      "an": 2025,
-      "km": 2800,
+      "an": 2023,
+      "km": null,
       "model": null,
-      "capacitate": "1 000 cm³",
-      "stare": "Utilizat",
-      "dotari": "Bluetooth, Far LED"
-    },
-    {
-      "title": "CF moto 500 2A 2011",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-500-2a-2011-IDkQfXK.html",
-      "price_str": "15 759,14 lei",
-      "price_value": 15759.14,
-      "price_currency": "RON",
-      "an": 2011,
-      "km": 1950,
-      "model": null,
-      "capacitate": "500 cm³",
-      "stare": null,
-      "dotari": null
-    },
-    {
-      "title": "Atv Cf moto 520 l 2020",
-      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-520-l-2020-IDkQv40.html",
-      "price_str": "26 265,23 lei",
-      "price_value": 26265.23,
-      "price_currency": "RON",
-      "an": 2020,
-      "km": 1900,
-      "model": null,
-      "capacitate": "495 cm³",
+      "capacitate": "400 cm³",
       "stare": "Utilizat",
       "dotari": null
     },
@@ -1359,6 +1307,19 @@
       "capacitate": "450 cm³",
       "stare": "Utilizat",
       "dotari": "Controlul tractiunii (ASR)"
+    },
+    {
+      "title": "Atv CFMOTO CFORCE C5 Touring EPS T3b '26",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-c5-touring-eps-t3b-26-IDkw7Yp.html",
+      "price_str": "34 039,73 lei",
+      "price_value": 34039.73,
+      "price_currency": "RON",
+      "an": 2026,
+      "km": null,
+      "model": null,
+      "capacitate": "499 cm³",
+      "stare": "Nou",
+      "dotari": null
     },
     {
       "title": "ATV GOES by CFMoto Terrox 550L '26 Nou 4x4",
@@ -1409,6 +1370,19 @@
       "km": 6000,
       "model": null,
       "capacitate": "450 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
+      "title": "Atv Cf Moto  CFORCE 1000 2023",
+      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-cforce-1000-2023-IDkNnWu.html",
+      "price_str": "47 277,41 lei",
+      "price_value": 47277.41,
+      "price_currency": "RON",
+      "an": 2023,
+      "km": 3200,
+      "model": null,
+      "capacitate": "1 000 cm³",
       "stare": "Utilizat",
       "dotari": null
     },
@@ -1517,19 +1491,6 @@
       "dotari": null
     },
     {
-      "title": "GOES by CFMOTO TERROX 1000 T3b '26",
-      "link": "https://www.olx.ro/d/oferta/goes-by-cfmoto-terrox-1000-t3b-26-IDdIGbM.html",
-      "price_str": "54 053,83 lei",
-      "price_value": 54053.83,
-      "price_currency": "RON",
-      "an": 2026,
-      "km": null,
-      "model": null,
-      "capacitate": "963 cm³",
-      "stare": "Nou",
-      "dotari": null
-    },
-    {
       "title": "Cf Moto 625 L Touring (Euro 5)",
       "link": "https://www.olx.ro/d/oferta/cf-moto-625-l-touring-euro-5-IDkFkzy.html",
       "price_str": "42 019,11 lei",
@@ -1543,15 +1504,15 @@
       "dotari": "Bluetooth, Far LED, Far Xenon"
     },
     {
-      "title": "Cf Moto Uforce 800 2015 BUGGY, UTV nu Cf moto (450.520,600,800,850.1000)",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-uforce-800-2015-buggy-utv-nu-cf-moto-450-520-600-800-850-1000-IDkRvty.html",
-      "price_str": "28 103,79 lei",
-      "price_value": 28103.79,
+      "title": "VEHICULE RULATE (CFMOTO,KTM,GasGas,Husqvarna,Can-am,Kawasaki)",
+      "link": "https://www.olx.ro/d/oferta/vehicule-rulate-cfmoto-ktm-gasgas-husqvarna-can-am-kawasaki-IDhscl6.html",
+      "price_str": "24 479,19 lei",
+      "price_value": 24479.19,
       "price_currency": "RON",
-      "an": 2015,
-      "km": 5700,
+      "an": null,
+      "km": null,
       "model": null,
-      "capacitate": "800 cm³",
+      "capacitate": null,
       "stare": "Utilizat",
       "dotari": null
     },
@@ -1567,6 +1528,19 @@
       "capacitate": "600 cm³",
       "stare": "Utilizat",
       "dotari": "Bluetooth, Imobilizator electronic, Far LED, Far Xenon"
+    },
+    {
+      "title": "GOES by CFMOTO TERROX 1000 T3b '26",
+      "link": "https://www.olx.ro/d/oferta/goes-by-cfmoto-terrox-1000-t3b-26-IDdIGbM.html",
+      "price_str": "54 053,83 lei",
+      "price_value": 54053.83,
+      "price_currency": "RON",
+      "an": 2026,
+      "km": null,
+      "model": null,
+      "capacitate": "963 cm³",
+      "stare": "Nou",
+      "dotari": null
     },
     {
       "title": "CFMOTO CFORCE 520 l x5 2025",
@@ -1673,19 +1647,6 @@
       "dotari": null
     },
     {
-      "title": "Se vinde ATV CF MOTO 450s",
-      "link": "https://www.olx.ro/d/oferta/se-vinde-atv-cf-moto-450s-IDkRHjD.html",
-      "price_str": "20 486,88 lei",
-      "price_value": 20486.88,
-      "price_currency": "RON",
-      "an": 2020,
-      "km": null,
-      "model": null,
-      "capacitate": null,
-      "stare": "Utilizat",
-      "dotari": null
-    },
-    {
       "title": "Vand cf moto overland 1000",
       "link": "https://www.olx.ro/d/oferta/vand-cf-moto-overland-1000-IDkQlDY.html",
       "price_str": "64 087,15 lei\n\nPrețul e negociabil",
@@ -1699,16 +1660,16 @@
       "dotari": null
     },
     {
-      "title": "ATV CFMOTO CFORCE C4 Touring Basic T3b '26",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-c4-touring-basic-t3b-26-IDkw7Uc.html",
-      "price_str": "27 835,89 lei",
-      "price_value": 27835.89,
+      "title": "Se vinde ATV CF MOTO 450s",
+      "link": "https://www.olx.ro/d/oferta/se-vinde-atv-cf-moto-450s-IDkRHjD.html",
+      "price_str": "20 486,88 lei",
+      "price_value": 20486.88,
       "price_currency": "RON",
-      "an": 2026,
+      "an": 2020,
       "km": null,
       "model": null,
-      "capacitate": "409 cm³",
-      "stare": "Nou",
+      "capacitate": null,
+      "stare": "Utilizat",
       "dotari": null
     },
     {
@@ -1777,15 +1738,15 @@
       "dotari": "ABS, Controlul tractiunii (ASR), Bluetooth, Far LED"
     },
     {
-      "title": "Atv GOES by CFMOTO TERROX 400S T3b '26",
-      "link": "https://www.olx.ro/d/oferta/atv-goes-by-cfmoto-terrox-400s-t3b-26-IDjJv8F.html",
-      "price_str": "22 010,26 lei",
-      "price_value": 22010.26,
+      "title": "ATV CFMOTO CFORCE C4 Touring Basic T3b '26",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-c4-touring-basic-t3b-26-IDkw7Uc.html",
+      "price_str": "27 835,89 lei",
+      "price_value": 27835.89,
       "price_currency": "RON",
       "an": 2026,
       "km": null,
       "model": null,
-      "capacitate": "400 cm³",
+      "capacitate": "409 cm³",
       "stare": "Nou",
       "dotari": null
     },
@@ -1813,6 +1774,19 @@
       "model": null,
       "capacitate": "963 cm³",
       "stare": "Utilizat",
+      "dotari": null
+    },
+    {
+      "title": "Atv GOES by CFMOTO TERROX 400S T3b '26",
+      "link": "https://www.olx.ro/d/oferta/atv-goes-by-cfmoto-terrox-400s-t3b-26-IDjJv8F.html",
+      "price_str": "22 010,26 lei",
+      "price_value": 22010.26,
+      "price_currency": "RON",
+      "an": 2026,
+      "km": null,
+      "model": null,
+      "capacitate": "400 cm³",
+      "stare": "Nou",
       "dotari": null
     },
     {
@@ -1968,19 +1942,6 @@
       "km": 2000,
       "model": null,
       "capacitate": "450 cm³",
-      "stare": "Utilizat",
-      "dotari": null
-    },
-    {
-      "title": "Cf moto 520L EPS",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-520l-eps-IDk4pmh.html",
-      "price_str": "24 164,01 lei\n\nPrețul e negociabil",
-      "price_value": 24164.01,
-      "price_currency": "RON",
-      "an": 2019,
-      "km": 7000,
-      "model": null,
-      "capacitate": "500 cm³",
       "stare": "Utilizat",
       "dotari": null
     },
@@ -2141,6 +2102,19 @@
       "dotari": null
     },
     {
+      "title": "Cf moto 520L EPS",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-520l-eps-IDk4pmh.html",
+      "price_str": "24 164,01 lei\n\nPrețul e negociabil",
+      "price_value": 24164.01,
+      "price_currency": "RON",
+      "an": 2019,
+      "km": 7000,
+      "model": null,
+      "capacitate": "500 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
       "title": "CF Moto CForce 600L Touring EPS Touring EPS Euro5+ '26",
       "link": "https://www.autovit.ro/anunt/cf-moto-cforce-600l-touring-eps-ID7HNQPQ.html",
       "price_str": null,
@@ -2193,19 +2167,6 @@
       "dotari": "Far LED"
     },
     {
-      "title": "Vand atv CFmoto 4x4 E5",
-      "link": "https://www.olx.ro/d/oferta/vand-atv-cfmoto-4x4-e5-IDkR87Y.html",
-      "price_str": "23 638,70 lei",
-      "price_value": 23638.7,
-      "price_currency": "RON",
-      "an": 2023,
-      "km": null,
-      "model": null,
-      "capacitate": "400 cm³",
-      "stare": "Utilizat",
-      "dotari": null
-    },
-    {
       "title": "Atv cf moto 450L",
       "link": "https://www.olx.ro/d/oferta/atv-cf-moto-450l-IDkNm4m.html",
       "price_str": "21 012,18 lei\n\nPrețul e negociabil",
@@ -2256,19 +2217,6 @@
       "capacitate": "520 cm³",
       "stare": null,
       "dotari": null
-    },
-    {
-      "title": "vanzare CF MOTO 850",
-      "link": "https://www.olx.ro/d/oferta/vanzare-cf-moto-850-IDkRi2m.html",
-      "price_str": "47 277,41 lei",
-      "price_value": 47277.41,
-      "price_currency": "RON",
-      "an": 2026,
-      "km": 1808,
-      "model": null,
-      "capacitate": "850 cm³",
-      "stare": "Utilizat",
-      "dotari": "ABS, Controlul tractiunii (ASR), Bluetooth, Pilot automat, Imobilizator electronic, Suspensie controlata electronic, Controlul stabilitatii (ESP), Far LED, Senzori presiune roti, Far Xenon"
     },
     {
       "title": "Motocicleta CFMOTO 675NK '26",
@@ -2362,6 +2310,19 @@
       "dotari": "Far LED"
     },
     {
+      "title": "vanzare CF MOTO 850",
+      "link": "https://www.olx.ro/d/oferta/vanzare-cf-moto-850-IDkRi2m.html",
+      "price_str": "47 277,41 lei",
+      "price_value": 47277.41,
+      "price_currency": "RON",
+      "an": 2026,
+      "km": 1808,
+      "model": null,
+      "capacitate": "850 cm³",
+      "stare": "Utilizat",
+      "dotari": "ABS, Controlul tractiunii (ASR), Bluetooth, Pilot automat, Imobilizator electronic, Suspensie controlata electronic, Controlul stabilitatii (ESP), Far LED, Senzori presiune roti, Far Xenon"
+    },
+    {
       "title": "Atv CF Moto 450 L 4x4",
       "link": "https://www.olx.ro/d/oferta/atv-cf-moto-450-l-4x4-IDkMa2l.html",
       "price_str": "24 111,48 lei",
@@ -2453,19 +2414,6 @@
       "dotari": null
     },
     {
-      "title": "Vand utv cf moto UForce 550",
-      "link": "https://www.olx.ro/d/oferta/vand-utv-cf-moto-uforce-550-IDkvWZ1.html",
-      "price_str": "26 265,23 lei",
-      "price_value": 26265.23,
-      "price_currency": "RON",
-      "an": 2020,
-      "km": null,
-      "model": null,
-      "capacitate": "550 cm³",
-      "stare": "Utilizat",
-      "dotari": "Far LED"
-    },
-    {
       "title": "atv cfmoto 450s",
       "link": "https://www.olx.ro/d/oferta/atv-cfmoto-450s-IDkPxcG.html",
       "price_str": "17 335,05 lei",
@@ -2477,6 +2425,19 @@
       "capacitate": "400 cm³",
       "stare": "Utilizat",
       "dotari": null
+    },
+    {
+      "title": "Vand utv cf moto UForce 550",
+      "link": "https://www.olx.ro/d/oferta/vand-utv-cf-moto-uforce-550-IDkvWZ1.html",
+      "price_str": "26 265,23 lei",
+      "price_value": 26265.23,
+      "price_currency": "RON",
+      "an": 2020,
+      "km": null,
+      "model": null,
+      "capacitate": "550 cm³",
+      "stare": "Utilizat",
+      "dotari": "Far LED"
     },
     {
       "title": "ATV CF Moto 520L 2022",
@@ -2583,16 +2544,16 @@
       "dotari": null
     },
     {
-      "title": "ATV CF MOTO 450 L  2023  E5",
-      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-450-l-2023-e5-IDkKaCq.html",
-      "price_str": "26 265,23 lei\n\nPrețul e negociabil",
-      "price_value": 26265.23,
+      "title": "Atv CFMOTO CFORCE 1000 MUD T3b '25",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-1000-mud-t3b-25-IDgzWJC.html",
+      "price_str": "68 242,31 lei",
+      "price_value": 68242.31,
       "price_currency": "RON",
-      "an": 2023,
-      "km": 2350,
+      "an": 2025,
+      "km": null,
       "model": null,
-      "capacitate": null,
-      "stare": null,
+      "capacitate": "963 cm³",
+      "stare": "Nou",
       "dotari": null
     },
     {
@@ -2635,6 +2596,19 @@
       "dotari": null
     },
     {
+      "title": "Vand CF MOTO X8 2016",
+      "link": "https://www.olx.ro/d/oferta/vand-cf-moto-x8-2016-IDkMotV.html",
+      "price_str": "31 518,27 lei\n\nPrețul e negociabil",
+      "price_value": 31518.27,
+      "price_currency": "RON",
+      "an": 2016,
+      "km": 6570,
+      "model": null,
+      "capacitate": "800 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
       "title": "Vând ATV cf moto 450 L doua locuri",
       "link": "https://www.olx.ro/d/oferta/vand-atv-cf-moto-450-l-doua-locuri-IDkPREu.html",
       "price_str": "23 638,70 lei\n\nPrețul e negociabil",
@@ -2646,6 +2620,19 @@
       "capacitate": "450 cm³",
       "stare": "Utilizat",
       "dotari": "Controlul tractiunii (ASR), Suspensie controlata electronic, Controlul stabilitatii (ESP), Far LED, Far Xenon"
+    },
+    {
+      "title": "ATV CFMOTO GOES 550L EPS T3 2026 | Rate | Leasing",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-goes-550l-eps-t3-2026-rate-leasing-IDkwDqD.html",
+      "price_str": "31 465,74 lei",
+      "price_value": 31465.74,
+      "price_currency": "RON",
+      "an": 2026,
+      "km": null,
+      "model": null,
+      "capacitate": "498 cm³",
+      "stare": "Nou",
+      "dotari": null
     },
     {
       "title": "ATV CF MOTO CForce 625 Touring",
@@ -2697,19 +2684,6 @@
       "model": null,
       "capacitate": "400 cm³",
       "stare": "Utilizat",
-      "dotari": null
-    },
-    {
-      "title": "ATV CFMOTO GOES 550L EPS T3 2026 | Rate | Leasing",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-goes-550l-eps-t3-2026-rate-leasing-IDkwDqD.html",
-      "price_str": "31 465,74 lei",
-      "price_value": 31465.74,
-      "price_currency": "RON",
-      "an": 2026,
-      "km": null,
-      "model": null,
-      "capacitate": "498 cm³",
-      "stare": "Nou",
       "dotari": null
     },
     {
@@ -2765,19 +2739,6 @@
       "dotari": null
     },
     {
-      "title": "Scuter CFMOTO ZEEHO AE6+ Liquid Black L1e '24",
-      "link": "https://www.olx.ro/d/oferta/scuter-cfmoto-zeeho-ae6-liquid-black-l1e-24-IDjJv5l.html",
-      "price_str": "13 605,39 lei",
-      "price_value": 13605.39,
-      "price_currency": "RON",
-      "an": null,
-      "km": null,
-      "model": null,
-      "capacitate": null,
-      "stare": "Nou",
-      "dotari": null
-    },
-    {
       "title": "De vanzare Cf moto 1000 2023 in stare perfecta",
       "link": "https://www.olx.ro/d/oferta/de-vanzare-cf-moto-1000-2023-in-stare-perfecta-IDkLrOm.html",
       "price_str": "46 500 lei\n\nPrețul e negociabil",
@@ -2804,19 +2765,6 @@
       "dotari": "Controlul stabilitatii (ESP), Far LED"
     },
     {
-      "title": "Atv CFMOTO CFORCE 1000 MUD T3b '25",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-1000-mud-t3b-25-IDgzWJC.html",
-      "price_str": "68 242,31 lei",
-      "price_value": 68242.31,
-      "price_currency": "RON",
-      "an": 2025,
-      "km": null,
-      "model": null,
-      "capacitate": "963 cm³",
-      "stare": "Nou",
-      "dotari": null
-    },
-    {
       "title": "Cf moto 625 eps 2022",
       "link": "https://www.olx.ro/d/oferta/cf-moto-625-eps-2022-IDkN6fH.html",
       "price_str": "31 513,02 lei",
@@ -2830,19 +2778,6 @@
       "dotari": null
     },
     {
-      "title": "CF Moto CForce 520L Cf moto 520L , prim proprietar",
-      "link": "https://www.autovit.ro/anunt/cf-moto-cforce-520l-ID7HQtW3.html",
-      "price_str": null,
-      "price_value": null,
-      "price_currency": null,
-      "an": null,
-      "km": null,
-      "model": null,
-      "capacitate": null,
-      "stare": null,
-      "dotari": null
-    },
-    {
       "title": "CFMOTO 450S 4x4 | 2020 | 4.300 km | Întreținut",
       "link": "https://www.olx.ro/d/oferta/cfmoto-450s-4x4-2020-4-300-km-intretinut-IDkNo6o.html",
       "price_str": "22 588,09 lei\n\nPrețul e negociabil",
@@ -2853,6 +2788,19 @@
       "model": null,
       "capacitate": "450 cm³",
       "stare": null,
+      "dotari": null
+    },
+    {
+      "title": "Scuter CFMOTO ZEEHO AE6+ Liquid Black L1e '24",
+      "link": "https://www.olx.ro/d/oferta/scuter-cfmoto-zeeho-ae6-liquid-black-l1e-24-IDjJv5l.html",
+      "price_str": "13 605,39 lei",
+      "price_value": 13605.39,
+      "price_currency": "RON",
+      "an": null,
+      "km": null,
+      "model": null,
+      "capacitate": null,
+      "stare": "Nou",
       "dotari": null
     },
     {
@@ -2908,16 +2856,16 @@
       "dotari": null
     },
     {
-      "title": "Cf moto 450 s de vanzare!",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-450-s-de-vanzare-IDkNT5Z.html",
-      "price_str": "16 809,74 lei\n\nPrețul e negociabil",
-      "price_value": 16809.74,
+      "title": "ATV CF MOTO 450 L  2023  E5",
+      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-450-l-2023-e5-IDkKaCq.html",
+      "price_str": "26 265,23 lei\n\nPrețul e negociabil",
+      "price_value": 26265.23,
       "price_currency": "RON",
-      "an": 2021,
-      "km": 8000,
+      "an": 2023,
+      "km": 2350,
       "model": null,
-      "capacitate": "450 cm³",
-      "stare": "Utilizat",
+      "capacitate": null,
+      "stare": null,
       "dotari": null
     },
     {
@@ -2973,6 +2921,19 @@
       "dotari": null
     },
     {
+      "title": "Cf moto 450 s de vanzare!",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-450-s-de-vanzare-IDkNT5Z.html",
+      "price_str": "16 809,74 lei\n\nPrețul e negociabil",
+      "price_value": 16809.74,
+      "price_currency": "RON",
+      "an": 2021,
+      "km": 8000,
+      "model": null,
+      "capacitate": "450 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
       "title": "Cf moto 520L an 2021",
       "link": "https://www.olx.ro/d/oferta/cf-moto-520l-an-2021-IDkPENj.html",
       "price_str": "21 012,18 lei",
@@ -2997,6 +2958,19 @@
       "capacitate": "998 cm³",
       "stare": "Nou",
       "dotari": null
+    },
+    {
+      "title": "Vând Cf moto x5 520l",
+      "link": "https://www.olx.ro/d/oferta/vand-cf-moto-x5-520l-IDkPlWb.html",
+      "price_str": "31 518,27 lei\n\nPrețul e negociabil",
+      "price_value": 31518.27,
+      "price_currency": "RON",
+      "an": 2023,
+      "km": 2000,
+      "model": null,
+      "capacitate": "500 cm³",
+      "stare": "Nou",
+      "dotari": "Far LED"
     },
     {
       "title": "Cf moto 800 quad atv",
@@ -3035,19 +3009,6 @@
       "model": null,
       "capacitate": "850 cm³",
       "stare": "Utilizat",
-      "dotari": null
-    },
-    {
-      "title": "Scuter CFMOTO Zeeho AE4 '24",
-      "link": "https://www.olx.ro/d/oferta/scuter-cfmoto-zeeho-ae4-24-IDjJwrw.html",
-      "price_str": "10 453,56 lei",
-      "price_value": 10453.56,
-      "price_currency": "RON",
-      "an": null,
-      "km": null,
-      "model": null,
-      "capacitate": null,
-      "stare": "Nou",
       "dotari": null
     },
     {
@@ -3090,19 +3051,6 @@
       "dotari": null
     },
     {
-      "title": "Vând Cf moto x5 520l",
-      "link": "https://www.olx.ro/d/oferta/vand-cf-moto-x5-520l-IDkPlWb.html",
-      "price_str": "31 518,27 lei\n\nPrețul e negociabil",
-      "price_value": 31518.27,
-      "price_currency": "RON",
-      "an": 2023,
-      "km": 2000,
-      "model": null,
-      "capacitate": "500 cm³",
-      "stare": "Nou",
-      "dotari": "Far LED"
-    },
-    {
       "title": "Cf Moto 625L OVERLAND / EPS / 2024 / 1200 km / L7e / Camuflaj / Impecabil",
       "link": "https://www.olx.ro/d/oferta/cf-moto-625l-overland-eps-2024-1200-km-l7e-camuflaj-impecabil-IDkKICa.html",
       "price_str": "40 395,92 lei",
@@ -3116,16 +3064,16 @@
       "dotari": null
     },
     {
-      "title": "Atv CFMOTO CFMOTO Cforce X5 520L EPS Euro5+ '26 SH",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cfmoto-cforce-x5-520l-eps-euro5-26-sh-IDkukuy.html",
-      "price_str": "33 882,14 lei",
-      "price_value": 33882.14,
+      "title": "Scuter CFMOTO Zeeho AE4 '24",
+      "link": "https://www.olx.ro/d/oferta/scuter-cfmoto-zeeho-ae4-24-IDjJwrw.html",
+      "price_str": "10 453,56 lei",
+      "price_value": 10453.56,
       "price_currency": "RON",
       "an": null,
       "km": null,
       "model": null,
       "capacitate": null,
-      "stare": null,
+      "stare": "Nou",
       "dotari": null
     },
     {
@@ -3164,6 +3112,19 @@
       "km": 15000,
       "model": null,
       "capacitate": "450 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
+      "title": "Vand atv cfmoto cforce 450s TR 2023 - 525 km!!!",
+      "link": "https://www.olx.ro/d/oferta/vand-atv-cfmoto-cforce-450s-tr-2023-525-km-IDkuDit.html",
+      "price_str": "22 062,79 lei\n\nPrețul e negociabil",
+      "price_value": 22062.79,
+      "price_currency": "RON",
+      "an": 2023,
+      "km": 525,
+      "model": null,
+      "capacitate": "400 cm³",
       "stare": "Utilizat",
       "dotari": null
     },
@@ -3220,6 +3181,19 @@
       "dotari": null
     },
     {
+      "title": "Atv CFMOTO CFMOTO Cforce X5 520L EPS Euro5+ '26 SH",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cfmoto-cforce-x5-520l-eps-euro5-26-sh-IDkukuy.html",
+      "price_str": "33 882,14 lei",
+      "price_value": 33882.14,
+      "price_currency": "RON",
+      "an": null,
+      "km": null,
+      "model": null,
+      "capacitate": null,
+      "stare": null,
+      "dotari": null
+    },
+    {
       "title": "Vand cfmoto 1000 t3b",
       "link": "https://www.olx.ro/d/oferta/vand-cfmoto-1000-t3b-IDjJ7Ch.html",
       "price_str": "36 766,06 lei\n\nPrețul e negociabil",
@@ -3243,19 +3217,6 @@
       "model": null,
       "capacitate": null,
       "stare": "Nou",
-      "dotari": null
-    },
-    {
-      "title": "Vand CF Moto 2024",
-      "link": "https://www.olx.ro/d/oferta/vand-cf-moto-2024-IDkvK8m.html",
-      "price_str": "35 983,36 lei\n\nPrețul e negociabil",
-      "price_value": 35983.36,
-      "price_currency": "RON",
-      "an": 2024,
-      "km": 2200,
-      "model": null,
-      "capacitate": "520 cm³",
-      "stare": "Utilizat",
       "dotari": null
     },
     {
@@ -3311,19 +3272,6 @@
       "dotari": null
     },
     {
-      "title": "Cf Moto X10 2024",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-x10-2024-IDkPzmI.html",
-      "price_str": "50 691,89 lei",
-      "price_value": 50691.89,
-      "price_currency": "RON",
-      "an": 2024,
-      "km": 4300,
-      "model": null,
-      "capacitate": "1 000 cm³",
-      "stare": "Utilizat",
-      "dotari": null
-    },
-    {
       "title": "Vand cfmoto450s pret 3900€ negociabil",
       "link": "https://www.olx.ro/d/oferta/vand-cfmoto450s-pret-3900-negociabil-IDkIzsR.html",
       "price_str": "20 486,88 lei\n\nPrețul e negociabil",
@@ -3373,19 +3321,6 @@
       "model": null,
       "capacitate": "1 000 cm³",
       "stare": "Utilizat",
-      "dotari": null
-    },
-    {
-      "title": "Vand Atv  Cf Moto",
-      "link": "https://www.olx.ro/d/oferta/vand-atv-cf-moto-IDkRx6Y.html",
-      "price_str": "24 164,01 lei",
-      "price_value": 24164.01,
-      "price_currency": "RON",
-      "an": null,
-      "km": null,
-      "model": null,
-      "capacitate": null,
-      "stare": null,
       "dotari": null
     },
     {
@@ -3506,6 +3441,19 @@
       "dotari": null
     },
     {
+      "title": "Cf Moto X10 2024",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-x10-2024-IDkPzmI.html",
+      "price_str": "50 691,89 lei",
+      "price_value": 50691.89,
+      "price_currency": "RON",
+      "an": 2024,
+      "km": 4300,
+      "model": null,
+      "capacitate": "1 000 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
       "title": "Scuter Sym Joymax 300i Evo maxi scuter moto (schimb cu Yamaha Tmax Gilera Nexus Burgman CFMoto  T max 500 atv strada spy quad",
       "link": "https://www.olx.ro/d/oferta/scuter-sym-joymax-300i-evo-maxi-scuter-moto-schimb-cu-yamaha-tmax-gilera-nexus-burgman-cfmoto-t-max-500-atv-strada-spy-quad-IDksSKQ.html",
       "price_str": "4 990 lei",
@@ -3515,6 +3463,32 @@
       "km": null,
       "model": null,
       "capacitate": "300 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
+      "title": "CF Moto CForce 600L Touring EPS Touring EPS T3b '26",
+      "link": "https://www.autovit.ro/anunt/cf-moto-cforce-600l-touring-eps-ID7HNQyp.html",
+      "price_str": null,
+      "price_value": null,
+      "price_currency": null,
+      "an": null,
+      "km": null,
+      "model": null,
+      "capacitate": null,
+      "stare": null,
+      "dotari": null
+    },
+    {
+      "title": "Vand atv cf moto 850",
+      "link": "https://www.olx.ro/d/oferta/vand-atv-cf-moto-850-IDkEIg2.html",
+      "price_str": "37 816,67 lei",
+      "price_value": 37816.67,
+      "price_currency": "RON",
+      "an": 2019,
+      "km": 7850,
+      "model": null,
+      "capacitate": "850 cm³",
       "stare": "Utilizat",
       "dotari": null
     },
@@ -3597,19 +3571,6 @@
       "dotari": null
     },
     {
-      "title": "Atv CFMOTO Cforce 1000 X10 EPS T3b '25 SH",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-1000-x10-eps-t3b-25-sh-IDkukL2.html",
-      "price_str": "55 419,63 lei",
-      "price_value": 55419.63,
-      "price_currency": "RON",
-      "an": 2025,
-      "km": 177,
-      "model": null,
-      "capacitate": "963 cm³",
-      "stare": "Utilizat",
-      "dotari": null
-    },
-    {
       "title": "cf moto 500A",
       "link": "https://www.olx.ro/d/oferta/cf-moto-500a-IDkKKFB.html",
       "price_str": "12 344,66 lei\n\nPrețul e negociabil",
@@ -3623,16 +3584,16 @@
       "dotari": null
     },
     {
-      "title": "ATV CF Moto 450l",
-      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-450l-IDkMuJt.html",
-      "price_str": "25 214,62 lei\n\nPrețul e negociabil",
-      "price_value": 25214.62,
+      "title": "Vand Atv  Cf Moto",
+      "link": "https://www.olx.ro/d/oferta/vand-atv-cf-moto-IDkRx6Y.html",
+      "price_str": "24 164,01 lei",
+      "price_value": 24164.01,
       "price_currency": "RON",
-      "an": 2022,
-      "km": 1054,
+      "an": null,
+      "km": null,
       "model": null,
-      "capacitate": "400 cm³",
-      "stare": "Nou",
+      "capacitate": null,
+      "stare": null,
       "dotari": null
     },
     {
@@ -3647,19 +3608,6 @@
       "capacitate": "998 cm³",
       "stare": "Nou",
       "dotari": null
-    },
-    {
-      "title": "CF Moto 500 lung - 2015",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-500-lung-2015-IDkLhPo.html",
-      "price_str": "20 224,22 lei\n\nPrețul e negociabil",
-      "price_value": 20224.22,
-      "price_currency": "RON",
-      "an": 2015,
-      "km": 7700,
-      "model": null,
-      "capacitate": "499 cm³",
-      "stare": "Utilizat",
-      "dotari": "Far LED"
     },
     {
       "title": "Mă VINDE!!!   CF MOTO 850XC 2024",
@@ -3727,6 +3675,32 @@
       "dotari": null
     },
     {
+      "title": "Atv CFMOTO Cforce 1000 X10 EPS T3b '25 SH",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-1000-x10-eps-t3b-25-sh-IDkukL2.html",
+      "price_str": "55 419,63 lei",
+      "price_value": 55419.63,
+      "price_currency": "RON",
+      "an": 2025,
+      "km": 177,
+      "model": null,
+      "capacitate": "963 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
+      "title": "ATV CF Moto 450l",
+      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-450l-IDkMuJt.html",
+      "price_str": "25 214,62 lei\n\nPrețul e negociabil",
+      "price_value": 25214.62,
+      "price_currency": "RON",
+      "an": 2022,
+      "km": 1054,
+      "model": null,
+      "capacitate": "400 cm³",
+      "stare": "Nou",
+      "dotari": null
+    },
+    {
       "title": "Vand CF MOTO 1000",
       "link": "https://www.olx.ro/d/oferta/vand-cf-moto-1000-IDkRwFG.html",
       "price_str": "39 923,14 lei\n\nPrețul e negociabil",
@@ -3763,32 +3737,6 @@
       "model": null,
       "capacitate": null,
       "stare": null,
-      "dotari": null
-    },
-    {
-      "title": "CF Moto CForce 600L Touring EPS Touring EPS T3b '26",
-      "link": "https://www.autovit.ro/anunt/cf-moto-cforce-600l-touring-eps-ID7HNQyp.html",
-      "price_str": null,
-      "price_value": null,
-      "price_currency": null,
-      "an": null,
-      "km": null,
-      "model": null,
-      "capacitate": null,
-      "stare": null,
-      "dotari": null
-    },
-    {
-      "title": "CFMOTO CFORCE X5 520L EPS Euro5+ '26",
-      "link": "https://www.olx.ro/d/oferta/cfmoto-cforce-x5-520l-eps-euro5-26-IDctLa9.html",
-      "price_str": "35 142,87 lei",
-      "price_value": 35142.87,
-      "price_currency": "RON",
-      "an": 2026,
-      "km": null,
-      "model": null,
-      "capacitate": "495 cm³",
-      "stare": "Nou",
       "dotari": null
     },
     {
@@ -3883,6 +3831,32 @@
       "dotari": null
     },
     {
+      "title": "CFMOTO CFORCE X5 520L EPS Euro5+ '26",
+      "link": "https://www.olx.ro/d/oferta/cfmoto-cforce-x5-520l-eps-euro5-26-IDctLa9.html",
+      "price_str": "35 142,87 lei",
+      "price_value": 35142.87,
+      "price_currency": "RON",
+      "an": 2026,
+      "km": null,
+      "model": null,
+      "capacitate": "495 cm³",
+      "stare": "Nou",
+      "dotari": null
+    },
+    {
+      "title": "CF Moto 500 lung - 2015",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-500-lung-2015-IDkLhPo.html",
+      "price_str": "20 224,22 lei\n\nPrețul e negociabil",
+      "price_value": 20224.22,
+      "price_currency": "RON",
+      "an": 2015,
+      "km": 7700,
+      "model": null,
+      "capacitate": "499 cm³",
+      "stare": "Utilizat",
+      "dotari": "Far LED"
+    },
+    {
       "title": "ATV CF MOTO 625 touring euro 5 numar negru",
       "link": "https://www.olx.ro/d/oferta/atv-cf-moto-625-touring-euro-5-numar-negru-IDkJgT9.html",
       "price_str": "34 144,79 lei\n\nPrețul e negociabil",
@@ -3972,19 +3946,6 @@
       "capacitate": null,
       "stare": null,
       "dotari": null
-    },
-    {
-      "title": "Cfmoto 450L automat 32 cp T3b delimitat  servodirectie  2024 ABS led Germania",
-      "link": "https://www.olx.ro/d/oferta/cfmoto-450l-automat-32-cp-t3b-delimitat-servodirectie-2024-abs-led-germania-IDkNdub.html",
-      "price_str": "29 417,05 lei\n\nPrețul e negociabil",
-      "price_value": 29417.05,
-      "price_currency": "RON",
-      "an": 2024,
-      "km": 1550,
-      "model": null,
-      "capacitate": "450 cm³",
-      "stare": "Utilizat",
-      "dotari": "ABS, Bluetooth, Far LED"
     },
     {
       "title": "Cf moto  450s 2022 T3B",
@@ -4091,19 +4052,6 @@
       "dotari": null
     },
     {
-      "title": "Atv CFMOTO CFORCE 625 Overland EPS Euro5+ '26 SH",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-625-overland-eps-euro5-26-sh-IDkukDi.html",
-      "price_str": "45 333,78 lei",
-      "price_value": 45333.78,
-      "price_currency": "RON",
-      "an": 2026,
-      "km": 130,
-      "model": null,
-      "capacitate": "580 cm³",
-      "stare": "Utilizat",
-      "dotari": null
-    },
-    {
       "title": "CF Moto 850XC 2022 Euro5",
       "link": "https://www.olx.ro/d/oferta/cf-moto-850xc-2022-euro5-IDkAXes.html",
       "price_str": "42 024,36 lei",
@@ -4127,19 +4075,6 @@
       "model": null,
       "capacitate": "800 cm³",
       "stare": null,
-      "dotari": null
-    },
-    {
-      "title": "CF moto 520l An 2018",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-520l-an-2018-IDjC93z.html",
-      "price_str": "19 961,57 lei\n\nPrețul e negociabil",
-      "price_value": 19961.57,
-      "price_currency": "RON",
-      "an": 2018,
-      "km": 9200,
-      "model": null,
-      "capacitate": "520 cm³",
-      "stare": "Utilizat",
       "dotari": null
     },
     {
@@ -4167,32 +4102,6 @@
       "capacitate": "550 cm³",
       "stare": null,
       "dotari": "Alarma"
-    },
-    {
-      "title": "Atv  CF Moto 625S 4x4 2024 / Servo Directie / Recent adus din Germania!",
-      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-625s-4x4-2024-servo-directie-recent-adus-din-germania-IDkwxxw.html",
-      "price_str": "31 465,74 lei",
-      "price_value": 31465.74,
-      "price_currency": "RON",
-      "an": 2024,
-      "km": 5836,
-      "model": null,
-      "capacitate": "580 cm³",
-      "stare": "Utilizat",
-      "dotari": null
-    },
-    {
-      "title": "Vând ATV CF Moto 4x4",
-      "link": "https://www.olx.ro/d/oferta/vand-atv-cf-moto-4x4-IDklncG.html",
-      "price_str": "18 648,31 lei\n\nPrețul e negociabil",
-      "price_value": 18648.31,
-      "price_currency": "RON",
-      "an": 2014,
-      "km": 8400,
-      "model": null,
-      "capacitate": "500 cm³",
-      "stare": null,
-      "dotari": null
     },
     {
       "title": "Vand atv cfmoto 550 L,urgent‼️",
@@ -4247,6 +4156,19 @@
       "dotari": null
     },
     {
+      "title": "Vând ATV CF Moto 4x4",
+      "link": "https://www.olx.ro/d/oferta/vand-atv-cf-moto-4x4-IDklncG.html",
+      "price_str": "18 648,31 lei\n\nPrețul e negociabil",
+      "price_value": 18648.31,
+      "price_currency": "RON",
+      "an": 2014,
+      "km": 8400,
+      "model": null,
+      "capacitate": "500 cm³",
+      "stare": null,
+      "dotari": null
+    },
+    {
       "title": "Vând CFMOTO CFORCE 520 L - 4x4, Varianta Lungă (2 locuri)",
       "link": "https://www.olx.ro/d/oferta/vand-cfmoto-cforce-520-l-4x4-varianta-lunga-2-locuri-IDkHw2g.html",
       "price_str": "19 436,27 lei",
@@ -4273,6 +4195,19 @@
       "dotari": null
     },
     {
+      "title": "CF moto 520l An 2018",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-520l-an-2018-IDjC93z.html",
+      "price_str": "19 961,57 lei\n\nPrețul e negociabil",
+      "price_value": 19961.57,
+      "price_currency": "RON",
+      "an": 2018,
+      "km": 9200,
+      "model": null,
+      "capacitate": "520 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
       "title": "Atv jinling 250 cc nu Yamaha ,suzuki, kawaski ,cfmoto,bashan",
       "link": "https://www.olx.ro/d/oferta/atv-jinling-250-cc-nu-yamaha-suzuki-kawaski-cfmoto-bashan-IDjW1pT.html",
       "price_str": "12 344,66 lei",
@@ -4284,19 +4219,6 @@
       "capacitate": "250 cm³",
       "stare": null,
       "dotari": "ABS"
-    },
-    {
-      "title": "ATV CFMOTO CFORCE 1000 X10 MUD EPS T3 2026 | Finantare disponibila",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-1000-x10-mud-eps-t3-2026-finantare-disponibila-IDjgpC9.html",
-      "price_str": "70 863,58 lei",
-      "price_value": 70863.58,
-      "price_currency": "RON",
-      "an": 2026,
-      "km": null,
-      "model": null,
-      "capacitate": "962 cm³",
-      "stare": "Nou",
-      "dotari": null
     },
     {
       "title": "CFMOTO 520L – 2024 - Înmatriculat",
@@ -4403,16 +4325,16 @@
       "dotari": "Far LED, Suspensie controlata electronic"
     },
     {
-      "title": "Atv CF MOTO 1000",
-      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-1000-IDkQdQT.html",
-      "price_str": "57 783,50 lei",
-      "price_value": 57783.5,
+      "title": "ATV CFMOTO CFORCE 1000 X10 MUD EPS T3 2026 | Finantare disponibila",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-1000-x10-mud-eps-t3-2026-finantare-disponibila-IDjgpC9.html",
+      "price_str": "70 863,58 lei",
+      "price_value": 70863.58,
       "price_currency": "RON",
-      "an": 2023,
-      "km": 3700,
+      "an": 2026,
+      "km": null,
       "model": null,
-      "capacitate": "1 000 cm³",
-      "stare": "Utilizat",
+      "capacitate": "962 cm³",
+      "stare": "Nou",
       "dotari": null
     },
     {
@@ -4429,17 +4351,17 @@
       "dotari": "Far Xenon"
     },
     {
-      "title": "ATV CFmoto CForce 450L",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-450l-IDkxC6t.html",
-      "price_str": "21 532,23 lei",
-      "price_value": 21532.23,
+      "title": "Atv CFMOTO CFORCE 625 Overland EPS Euro5+ '26 SH",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-625-overland-eps-euro5-26-sh-IDkukDi.html",
+      "price_str": "45 333,78 lei",
+      "price_value": 45333.78,
       "price_currency": "RON",
-      "an": 2018,
-      "km": 12000,
+      "an": 2026,
+      "km": 130,
       "model": null,
-      "capacitate": "400 cm³",
+      "capacitate": "580 cm³",
       "stare": "Utilizat",
-      "dotari": "Far LED"
+      "dotari": null
     },
     {
       "title": "ATV CF moto 450L",
@@ -4466,6 +4388,19 @@
       "capacitate": "600 cm³",
       "stare": "Utilizat",
       "dotari": null
+    },
+    {
+      "title": "Cfmoto 450L automat 32 cp T3b delimitat  servodirectie  2024 ABS led Germania",
+      "link": "https://www.olx.ro/d/oferta/cfmoto-450l-automat-32-cp-t3b-delimitat-servodirectie-2024-abs-led-germania-IDkNdub.html",
+      "price_str": "29 417,05 lei\n\nPrețul e negociabil",
+      "price_value": 29417.05,
+      "price_currency": "RON",
+      "an": 2024,
+      "km": 1550,
+      "model": null,
+      "capacitate": "450 cm³",
+      "stare": "Utilizat",
+      "dotari": "ABS, Bluetooth, Far LED"
     },
     {
       "title": "Cfmoto 800mt Explore Edition",
@@ -4507,19 +4442,6 @@
       "dotari": null
     },
     {
-      "title": "Cf Moto 1000 EPS  TVA deductibi.Accept  variante- schimb",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-1000-eps-tva-deductibi-accept-variante-schimb-IDibWd1.html",
-      "price_str": "49 851,40 lei",
-      "price_value": 49851.4,
-      "price_currency": "RON",
-      "an": 2022,
-      "km": 4900,
-      "model": null,
-      "capacitate": "999 cm³",
-      "stare": "Utilizat",
-      "dotari": "Suspensie controlata electronic, Far LED, Far Xenon"
-    },
-    {
       "title": "ATV CFMOTO CFORCE C5 Touring Basic T3b 2026 | Finantare rapida",
       "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-c5-touring-basic-t3b-2026-finantare-rapida-IDkIN57.html",
       "price_str": "30 940,44 lei",
@@ -4530,19 +4452,6 @@
       "model": null,
       "capacitate": "498 cm³",
       "stare": "Nou",
-      "dotari": null
-    },
-    {
-      "title": "ATV  CF moto 1000",
-      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-1000-IDjScLg.html",
-      "price_str": "34 144,79 lei\n\nPrețul e negociabil",
-      "price_value": 34144.79,
-      "price_currency": "RON",
-      "an": 2019,
-      "km": 6515,
-      "model": null,
-      "capacitate": "963 cm³",
-      "stare": "Utilizat",
       "dotari": null
     },
     {
@@ -4570,19 +4479,6 @@
       "capacitate": "400 cm³",
       "stare": "Utilizat",
       "dotari": "Far LED"
-    },
-    {
-      "title": "VÂND, CF MOTO 520L AN 2021",
-      "link": "https://www.olx.ro/d/oferta/vand-cf-moto-520l-an-2021-IDkRGQB.html",
-      "price_str": "27 841,14 lei\n\nPrețul e negociabil",
-      "price_value": 27841.14,
-      "price_currency": "RON",
-      "an": 2021,
-      "km": 3900,
-      "model": null,
-      "capacitate": "520 cm³",
-      "stare": "Utilizat",
-      "dotari": null
     },
     {
       "title": "atv cf moto 520L an 2020",
@@ -4793,6 +4689,19 @@
       "dotari": "Far Xenon"
     },
     {
+      "title": "Cf Moto 1000 EPS  TVA deductibi.Accept  variante- schimb",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-1000-eps-tva-deductibi-accept-variante-schimb-IDibWd1.html",
+      "price_str": "49 851,40 lei",
+      "price_value": 49851.4,
+      "price_currency": "RON",
+      "an": 2022,
+      "km": 4900,
+      "model": null,
+      "capacitate": "999 cm³",
+      "stare": "Utilizat",
+      "dotari": "Suspensie controlata electronic, Far LED, Far Xenon"
+    },
+    {
       "title": "Cfmoto 625 L  Overland 2024 (euro5) - full dotari",
       "link": "https://www.olx.ro/d/oferta/cfmoto-625-l-overland-2024-euro5-full-dotari-IDkMFcW.html",
       "price_str": "35 458,05 lei",
@@ -4858,6 +4767,19 @@
       "dotari": null
     },
     {
+      "title": "ATV  CF moto 1000",
+      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-1000-IDjScLg.html",
+      "price_str": "34 144,79 lei\n\nPrețul e negociabil",
+      "price_value": 34144.79,
+      "price_currency": "RON",
+      "an": 2019,
+      "km": 6515,
+      "model": null,
+      "capacitate": "963 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
       "title": "CFMOTO625S- 4x4 Scurt",
       "link": "https://www.olx.ro/d/oferta/cfmoto625s-4x4-scurt-IDkQoSL.html",
       "price_str": "30 467,66 lei\n\nPrețul e negociabil",
@@ -4893,6 +4815,32 @@
       "km": 7200,
       "model": null,
       "capacitate": "500 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
+      "title": "ATV CFmoto CForce 450L",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-450l-IDkxC6t.html",
+      "price_str": "21 532,23 lei",
+      "price_value": 21532.23,
+      "price_currency": "RON",
+      "an": 2018,
+      "km": 12000,
+      "model": null,
+      "capacitate": "400 cm³",
+      "stare": "Utilizat",
+      "dotari": "Far LED"
+    },
+    {
+      "title": "Atv  CF Moto 625S 4x4 2024 / Servo Directie / Recent adus din Germania!",
+      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-625s-4x4-2024-servo-directie-recent-adus-din-germania-IDkwxxw.html",
+      "price_str": "31 465,74 lei",
+      "price_value": 31465.74,
+      "price_currency": "RON",
+      "an": 2024,
+      "km": 5836,
+      "model": null,
+      "capacitate": "580 cm³",
       "stare": "Utilizat",
       "dotari": null
     },
@@ -4975,17 +4923,17 @@
       "dotari": null
     },
     {
-      "title": "Vând ATV CF MOTO  520L X5 2024 Euro 5 4×4",
-      "link": "https://www.olx.ro/d/oferta/vand-atv-cf-moto-520l-x5-2024-euro-5-44-IDkOhXy.html",
-      "price_str": "28 366,44 lei\n\nPrețul e negociabil",
-      "price_value": 28366.44,
+      "title": "VÂND, CF MOTO 520L AN 2021",
+      "link": "https://www.olx.ro/d/oferta/vand-cf-moto-520l-an-2021-IDkRGQB.html",
+      "price_str": "27 841,14 lei\n\nPrețul e negociabil",
+      "price_value": 27841.14,
       "price_currency": "RON",
-      "an": 2023,
-      "km": 10200,
+      "an": 2021,
+      "km": 3900,
       "model": null,
-      "capacitate": "495 cm³",
+      "capacitate": "520 cm³",
       "stare": "Utilizat",
-      "dotari": "ABS, Far LED"
+      "dotari": null
     },
     {
       "title": "Atv CF Moto 850xc eps Euro5 2023",
@@ -5027,19 +4975,6 @@
       "dotari": "ABS, Alarma, Controlul tractiunii (ASR), Bluetooth, Pilot automat, Imobilizator electronic, Suspensie controlata electronic, Controlul stabilitatii (ESP), Far LED"
     },
     {
-      "title": "ATV / SXS CFMOTO (Linhai, TGB, Polaris, Can-Am)",
-      "link": "https://www.olx.ro/d/oferta/atv-sxs-cfmoto-linhai-tgb-polaris-can-am-IDgDiSx.html",
-      "price_str": "27 788,61 lei",
-      "price_value": 27788.61,
-      "price_currency": "RON",
-      "an": 2026,
-      "km": null,
-      "model": null,
-      "capacitate": "409 cm³",
-      "stare": "Nou",
-      "dotari": null
-    },
-    {
       "title": "CFMOTO CFORCE 1000 X10 EPS Premium Euro 5+ '26",
       "link": "https://www.olx.ro/d/oferta/cfmoto-cforce-1000-x10-eps-premium-euro-5-26-IDf4Ybg.html",
       "price_str": "65 610,53 lei",
@@ -5049,32 +4984,6 @@
       "km": null,
       "model": null,
       "capacitate": "962 cm³",
-      "stare": "Nou",
-      "dotari": null
-    },
-    {
-      "title": "ATV CFMOTO CForce 110 Fun 2025 copii | Finantare rapida",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-110-fun-2025-copii-finantare-rapida-IDhz85i.html",
-      "price_str": "8 877,65 lei",
-      "price_value": 8877.65,
-      "price_currency": "RON",
-      "an": 2024,
-      "km": null,
-      "model": null,
-      "capacitate": "110 cm³",
-      "stare": "Nou",
-      "dotari": null
-    },
-    {
-      "title": "ATV CFMOTO CFORCE 625 Overland EPS Euro5+ '26",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-625-overland-eps-euro5-26-IDhywWA.html",
-      "price_str": "47 224,88 lei",
-      "price_value": 47224.88,
-      "price_currency": "RON",
-      "an": 2026,
-      "km": null,
-      "model": null,
-      "capacitate": "580 cm³",
       "stare": "Nou",
       "dotari": null
     },
@@ -5131,6 +5040,19 @@
       "dotari": null
     },
     {
+      "title": "CF Moto CForce 1000 Overland CFMoto CFORCE X1000 Overland EPS 2026 T3b",
+      "link": "https://www.autovit.ro/anunt/cf-moto-cforce-1000-overland-ID7HQxFT.html",
+      "price_str": null,
+      "price_value": null,
+      "price_currency": null,
+      "an": 2026,
+      "km": null,
+      "model": null,
+      "capacitate": null,
+      "stare": null,
+      "dotari": null
+    },
+    {
       "title": "Vand Cf Moto 450L",
       "link": "https://www.olx.ro/d/oferta/vand-cf-moto-450l-IDkHRob.html",
       "price_str": "24 951,96 lei\n\nPrețul e negociabil",
@@ -5142,6 +5064,32 @@
       "capacitate": "400 cm³",
       "stare": "Utilizat",
       "dotari": "Controlul tractiunii (ASR)"
+    },
+    {
+      "title": "Atv CF MOTO 1000",
+      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-1000-IDkQdQT.html",
+      "price_str": "57 783,50 lei",
+      "price_value": 57783.5,
+      "price_currency": "RON",
+      "an": 2023,
+      "km": 3700,
+      "model": null,
+      "capacitate": "1 000 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
+      "title": "Vând ATV CF MOTO  520L X5 2024 Euro 5 4×4",
+      "link": "https://www.olx.ro/d/oferta/vand-atv-cf-moto-520l-x5-2024-euro-5-44-IDkOhXy.html",
+      "price_str": "28 366,44 lei\n\nPrețul e negociabil",
+      "price_value": 28366.44,
+      "price_currency": "RON",
+      "an": 2023,
+      "km": 10200,
+      "model": null,
+      "capacitate": "495 cm³",
+      "stare": "Utilizat",
+      "dotari": "ABS, Far LED"
     },
     {
       "title": "cf moto 520l euro5",
@@ -5326,16 +5274,16 @@
       "dotari": null
     },
     {
-      "title": "CF Moto 450L Euro5",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-450l-euro5-IDkC7Tn.html",
-      "price_str": "27 053,18 lei\n\nPrețul e negociabil",
-      "price_value": 27053.18,
+      "title": "ATV / SXS CFMOTO (Linhai, TGB, Polaris, Can-Am)",
+      "link": "https://www.olx.ro/d/oferta/atv-sxs-cfmoto-linhai-tgb-polaris-can-am-IDgDiSx.html",
+      "price_str": "27 788,61 lei",
+      "price_value": 27788.61,
       "price_currency": "RON",
-      "an": 2022,
-      "km": 3000,
+      "an": 2026,
+      "km": null,
       "model": null,
-      "capacitate": "400 cm³",
-      "stare": "Utilizat",
+      "capacitate": "409 cm³",
+      "stare": "Nou",
       "dotari": null
     },
     {
@@ -5365,6 +5313,19 @@
       "dotari": null
     },
     {
+      "title": "CFMOTO CFORCE 625L Touring EPS T3b '26",
+      "link": "https://www.olx.ro/d/oferta/cfmoto-cforce-625l-touring-eps-t3b-26-IDhquOE.html",
+      "price_str": "39 345,31 lei",
+      "price_value": 39345.31,
+      "price_currency": "RON",
+      "an": null,
+      "km": null,
+      "model": null,
+      "capacitate": "625 cm³",
+      "stare": "Nou",
+      "dotari": null
+    },
+    {
       "title": "Vand Cf moto 1000",
       "link": "https://www.olx.ro/d/oferta/vand-cf-moto-1000-IDkNkfh.html",
       "price_str": "40 973,75 lei\n\nPrețul e negociabil",
@@ -5376,19 +5337,6 @@
       "capacitate": "1 000 cm³",
       "stare": "Utilizat",
       "dotari": null
-    },
-    {
-      "title": "CF Moto 1000 Overland 2022",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-1000-overland-2022-IDjVgYS.html",
-      "price_str": "52 525,20 lei\n\nPrețul e negociabil",
-      "price_value": 52525.2,
-      "price_currency": "RON",
-      "an": 2022,
-      "km": 3750,
-      "model": null,
-      "capacitate": "998 cm³",
-      "stare": "Utilizat",
-      "dotari": "ABS, Far LED"
     },
     {
       "title": "Atv GOES by CFMOTO TERROX 400L T3b '26",
@@ -5406,8 +5354,8 @@
     {
       "title": "ATV CF Moto 800 4x4 – puternic, echipat complet, întreținut",
       "link": "https://www.olx.ro/d/oferta/atv-cf-moto-800-4x4-puternic-echipat-complet-intretinut-IDkzUo1.html",
-      "price_str": "26 265,23 lei",
-      "price_value": 26265.23,
+      "price_str": "25 214,62 lei",
+      "price_value": 25214.62,
       "price_currency": "RON",
       "an": 2012,
       "km": null,
@@ -5469,19 +5417,6 @@
       "dotari": null
     },
     {
-      "title": "CF Moto CForce 850 XC EPS",
-      "link": "https://www.autovit.ro/anunt/cf-moto-cforce-850-xc-eps-ID7HIhHB.html",
-      "price_str": null,
-      "price_value": null,
-      "price_currency": null,
-      "an": null,
-      "km": null,
-      "model": null,
-      "capacitate": null,
-      "stare": null,
-      "dotari": null
-    },
-    {
       "title": "CFMoto850XC de vanzare/schimb cu Mercedes C -E class dupa 2016",
       "link": "https://www.olx.ro/d/oferta/cfmoto850xc-de-vanzare-schimb-cu-mercedes-c-e-class-dupa-2016-IDkwnoy.html",
       "price_str": "36 766,06 lei",
@@ -5521,16 +5456,16 @@
       "dotari": null
     },
     {
-      "title": "Atv cf moto x5 520 eps 2025 schimb can am g2",
-      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-x5-520-eps-2025-schimb-can-am-g2-IDkOldV.html",
-      "price_str": "31 518,27 lei",
-      "price_value": 31518.27,
+      "title": "ATV CFMOTO CFORCE 625 Overland EPS Euro5+ '26",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-625-overland-eps-euro5-26-IDhywWA.html",
+      "price_str": "47 224,88 lei",
+      "price_value": 47224.88,
       "price_currency": "RON",
-      "an": 2025,
-      "km": 1900,
+      "an": 2026,
+      "km": null,
       "model": null,
-      "capacitate": "500 cm³",
-      "stare": null,
+      "capacitate": "580 cm³",
+      "stare": "Nou",
       "dotari": null
     },
     {
@@ -5586,32 +5521,6 @@
       "dotari": null
     },
     {
-      "title": "ATV CFMOTO CFORCE 625 Overland EPS E5+ 2026 | Finantare disponibila",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-625-overland-eps-e5-2026-finantare-disponibila-IDkiLan.html",
-      "price_str": "47 224,88 lei",
-      "price_value": 47224.88,
-      "price_currency": "RON",
-      "an": 2026,
-      "km": null,
-      "model": null,
-      "capacitate": "580 cm³",
-      "stare": "Nou",
-      "dotari": null
-    },
-    {
-      "title": "CF Moto CForce 1000 Overland CFMoto CFORCE X1000 Overland EPS 2026 T3b",
-      "link": "https://www.autovit.ro/anunt/cf-moto-cforce-1000-overland-ID7HQxFT.html",
-      "price_str": null,
-      "price_value": null,
-      "price_currency": null,
-      "an": 2026,
-      "km": null,
-      "model": null,
-      "capacitate": null,
-      "stare": null,
-      "dotari": null
-    },
-    {
       "title": "ATV CFMOTO CFORCE 1000 X10 EPS Premium T3b '25",
       "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-1000-x10-eps-premium-t3b-25-IDefIcI.html",
       "price_str": "62 984,01 lei",
@@ -5649,32 +5558,6 @@
       "capacitate": null,
       "stare": "Nou",
       "dotari": "ABS, Alarma, Far LED, Imobilizator electronic, Keyless go"
-    },
-    {
-      "title": "CFMOTO CFORCE 625L Touring EPS T3b '26",
-      "link": "https://www.olx.ro/d/oferta/cfmoto-cforce-625l-touring-eps-t3b-26-IDhquOE.html",
-      "price_str": "39 345,31 lei",
-      "price_value": 39345.31,
-      "price_currency": "RON",
-      "an": null,
-      "km": null,
-      "model": null,
-      "capacitate": "625 cm³",
-      "stare": "Nou",
-      "dotari": null
-    },
-    {
-      "title": "Atv Cf moto 850XC",
-      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-850xc-IDkQh3H.html",
-      "price_str": "43 600,27 lei\n\nPrețul e negociabil",
-      "price_value": 43600.27,
-      "price_currency": "RON",
-      "an": 2023,
-      "km": 2030,
-      "model": null,
-      "capacitate": "800 cm³",
-      "stare": "Utilizat",
-      "dotari": null
     },
     {
       "title": "ATV Goes Terrox 400S (CfMoto)",
@@ -5820,6 +5703,32 @@
       "dotari": null
     },
     {
+      "title": "ATV CFMOTO CFORCE 625L Touring EPS T3b '26",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-625l-touring-eps-t3b-26-IDfUqcN.html",
+      "price_str": "39 345,31 lei",
+      "price_value": 39345.31,
+      "price_currency": "RON",
+      "an": 2026,
+      "km": null,
+      "model": null,
+      "capacitate": "580 cm³",
+      "stare": "Nou",
+      "dotari": null
+    },
+    {
+      "title": "CF Moto 1000 Overland 2022",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-1000-overland-2022-IDjVgYS.html",
+      "price_str": "52 525,20 lei\n\nPrețul e negociabil",
+      "price_value": 52525.2,
+      "price_currency": "RON",
+      "an": 2022,
+      "km": 3750,
+      "model": null,
+      "capacitate": "998 cm³",
+      "stare": "Utilizat",
+      "dotari": "ABS, Far LED"
+    },
+    {
       "title": "Atv Cf moto 520s",
       "link": "https://www.olx.ro/d/oferta/atv-cf-moto-520s-IDkRavQ.html",
       "price_str": "21 012,18 lei",
@@ -5833,28 +5742,28 @@
       "dotari": null
     },
     {
-      "title": "ATV CFmoto cforce C5 (nu can am,linhai,polaris etc.)",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-c5-nu-can-am-linhai-polaris-etc-IDkCF48.html",
-      "price_str": "31 465,74 lei",
-      "price_value": 31465.74,
+      "title": "ATV CFMOTO CFORCE 625L EPS Touring T3 2026 | Finantare disponibila",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-625l-eps-touring-t3-2026-finantare-disponibila-IDeEdtY.html",
+      "price_str": "39 345,31 lei",
+      "price_value": 39345.31,
       "price_currency": "RON",
       "an": 2026,
-      "km": 1300,
+      "km": null,
       "model": null,
-      "capacitate": "500 cm³",
-      "stare": "Utilizat",
-      "dotari": "Alarma, Controlul stabilitatii (ESP), Far LED"
+      "capacitate": "580 cm³",
+      "stare": "Nou",
+      "dotari": null
     },
     {
-      "title": "Vând Atv Cf moto 450l",
-      "link": "https://www.olx.ro/d/oferta/vand-atv-cf-moto-450l-IDkmicc.html",
-      "price_str": "19 436,27 lei",
-      "price_value": 19436.27,
+      "title": "CF Moto 450L Euro5",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-450l-euro5-IDkC7Tn.html",
+      "price_str": "27 053,18 lei\n\nPrețul e negociabil",
+      "price_value": 27053.18,
       "price_currency": "RON",
       "an": 2022,
-      "km": 5800,
+      "km": 3000,
       "model": null,
-      "capacitate": "450 cm³",
+      "capacitate": "400 cm³",
       "stare": "Utilizat",
       "dotari": null
     },
@@ -5950,32 +5859,6 @@
       "dotari": null
     },
     {
-      "title": "CFMOTO 450S 2023",
-      "link": "https://www.olx.ro/d/oferta/cfmoto-450s-2023-IDkxGz2.html",
-      "price_str": "22 000 lei",
-      "price_value": 22000.0,
-      "price_currency": "RON",
-      "an": 2023,
-      "km": 1850,
-      "model": null,
-      "capacitate": "400 cm³",
-      "stare": "Utilizat",
-      "dotari": null
-    },
-    {
-      "title": "Atv cf moto cforce 550 eps servodirectie",
-      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-cforce-550-eps-servodirectie-IDkNAKC.html",
-      "price_str": "26 259,97 lei",
-      "price_value": 26259.97,
-      "price_currency": "RON",
-      "an": 2017,
-      "km": 6200,
-      "model": null,
-      "capacitate": "500 cm³",
-      "stare": "Utilizat",
-      "dotari": null
-    },
-    {
       "title": "ATV CFMOTO 625 Touring L7E",
       "link": "https://www.olx.ro/d/oferta/atv-cfmoto-625-touring-l7e-IDkRnuz.html",
       "price_str": "26 265,23 lei\n\nPrețul e negociabil",
@@ -5987,19 +5870,6 @@
       "capacitate": "580 cm³",
       "stare": "Utilizat",
       "dotari": null
-    },
-    {
-      "title": "De vanzare ATV CF moto x10 PREMIUM",
-      "link": "https://www.olx.ro/d/oferta/de-vanzare-atv-cf-moto-x10-premium-IDkHj4J.html",
-      "price_str": "55 682,28 lei",
-      "price_value": 55682.28,
-      "price_currency": "RON",
-      "an": 2025,
-      "km": 2300,
-      "model": null,
-      "capacitate": "998 cm³",
-      "stare": null,
-      "dotari": "Bluetooth, Suspensie controlata electronic, Far LED, Senzori presiune roti, Far Xenon"
     },
     {
       "title": "Cf Moto 450s 2023",
@@ -6015,6 +5885,19 @@
       "dotari": "Far Xenon"
     },
     {
+      "title": "De vanzare ATV CF moto x10 PREMIUM",
+      "link": "https://www.olx.ro/d/oferta/de-vanzare-atv-cf-moto-x10-premium-IDkHj4J.html",
+      "price_str": "55 682,28 lei",
+      "price_value": 55682.28,
+      "price_currency": "RON",
+      "an": 2025,
+      "km": 2300,
+      "model": null,
+      "capacitate": "998 cm³",
+      "stare": null,
+      "dotari": "Bluetooth, Suspensie controlata electronic, Far LED, Senzori presiune roti, Far Xenon"
+    },
+    {
       "title": "Vand CfMoto 450L",
       "link": "https://www.olx.ro/d/oferta/vand-cfmoto-450l-IDkQ7ui.html",
       "price_str": "22 062,79 lei\n\nPrețul e negociabil",
@@ -6026,6 +5909,32 @@
       "capacitate": "400 cm³",
       "stare": null,
       "dotari": null
+    },
+    {
+      "title": "Vând Atv Cf moto 450l",
+      "link": "https://www.olx.ro/d/oferta/vand-atv-cf-moto-450l-IDkmicc.html",
+      "price_str": "19 436,27 lei",
+      "price_value": 19436.27,
+      "price_currency": "RON",
+      "an": 2022,
+      "km": 5800,
+      "model": null,
+      "capacitate": "450 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
+      "title": "ATV CFmoto cforce C5 (nu can am,linhai,polaris etc.)",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-c5-nu-can-am-linhai-polaris-etc-IDkCF48.html",
+      "price_str": "31 465,74 lei",
+      "price_value": 31465.74,
+      "price_currency": "RON",
+      "an": 2026,
+      "km": 1300,
+      "model": null,
+      "capacitate": "500 cm³",
+      "stare": "Utilizat",
+      "dotari": "Alarma, Controlul stabilitatii (ESP), Far LED"
     },
     {
       "title": "Vand CfMoto 520s T3B 2022",
@@ -6093,19 +6002,6 @@
       "dotari": "ABS, Controlul tractiunii (ASR), Bluetooth, Controlul stabilitatii (ESP), Far LED"
     },
     {
-      "title": "ATV CFMOTO CFORCE 625L EPS Touring T3 2026 | Finantare disponibila",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-625l-eps-touring-t3-2026-finantare-disponibila-IDeEdtY.html",
-      "price_str": "39 345,31 lei",
-      "price_value": 39345.31,
-      "price_currency": "RON",
-      "an": 2026,
-      "km": null,
-      "model": null,
-      "capacitate": "580 cm³",
-      "stare": "Nou",
-      "dotari": null
-    },
-    {
       "title": "CFMOTO 650 MT – 2022 | Înmatriculată 2023 | 1.877 km | Stare excelentă",
       "link": "https://www.olx.ro/d/oferta/cfmoto-650-mt-2022-inmatriculata-2023-1-877-km-stare-excelenta-IDkBsOQ.html",
       "price_str": "23 638,70 lei",
@@ -6132,19 +6028,6 @@
       "dotari": "Controlul tractiunii (ASR), Bluetooth, Controlul stabilitatii (ESP), Far LED, Far Xenon"
     },
     {
-      "title": "Vând atv Cf Moto",
-      "link": "https://www.olx.ro/d/oferta/vand-atv-cf-moto-IDkP6Eh.html",
-      "price_str": "33 094,18 lei\n\nPrețul e negociabil",
-      "price_value": 33094.18,
-      "price_currency": "RON",
-      "an": 2025,
-      "km": 870,
-      "model": null,
-      "capacitate": "520 cm³",
-      "stare": "Utilizat",
-      "dotari": null
-    },
-    {
       "title": "ATV CF MOTO 520L /2025/Impecabil/Garantie",
       "link": "https://www.olx.ro/d/oferta/atv-cf-moto-520l-2025-impecabil-garantie-IDkPELR.html",
       "price_str": "30 467,66 lei\n\nPrețul e negociabil",
@@ -6168,6 +6051,19 @@
       "model": null,
       "capacitate": "450 cm³",
       "stare": "Utilizat",
+      "dotari": null
+    },
+    {
+      "title": "ATV CFMOTO CFORCE 625L Touring EPS T3b '26",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-625l-touring-eps-t3b-26-IDi5up9.html",
+      "price_str": "39 345,31 lei",
+      "price_value": 39345.31,
+      "price_currency": "RON",
+      "an": 2026,
+      "km": null,
+      "model": null,
+      "capacitate": "580 cm³",
+      "stare": "Nou",
       "dotari": null
     },
     {
@@ -6223,6 +6119,19 @@
       "dotari": "ABS, Alarma, Far Xenon, Controlul tractiunii (ASR), Bluetooth, Pilot automat, Imobilizator electronic, Suspensie controlata electronic, Controlul stabilitatii (ESP), Far LED, Senzori presiune roti"
     },
     {
+      "title": "ATV CFMOTO CFORCE 625 Overland EPS E5+ 2026 | Finantare disponibila",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-625-overland-eps-e5-2026-finantare-disponibila-IDkiLan.html",
+      "price_str": "47 224,88 lei",
+      "price_value": 47224.88,
+      "price_currency": "RON",
+      "an": 2026,
+      "km": null,
+      "model": null,
+      "capacitate": "580 cm³",
+      "stare": "Nou",
+      "dotari": null
+    },
+    {
       "title": "ATV CFMOTO X5 CFORCE 520L EPS E5+ 2026 | Finantare rapida",
       "link": "https://www.olx.ro/d/oferta/atv-cfmoto-x5-cforce-520l-eps-e5-2026-finantare-rapida-IDkINUh.html",
       "price_str": "35 142,87 lei",
@@ -6275,6 +6184,19 @@
       "dotari": "Far LED"
     },
     {
+      "title": "CF Moto CForce 850 XC EPS",
+      "link": "https://www.autovit.ro/anunt/cf-moto-cforce-850-xc-eps-ID7HIhHB.html",
+      "price_str": null,
+      "price_value": null,
+      "price_currency": null,
+      "an": null,
+      "km": null,
+      "model": null,
+      "capacitate": null,
+      "stare": null,
+      "dotari": null
+    },
+    {
       "title": "Cfmoto 625L Touring 2022 EPS T3B",
       "link": "https://www.olx.ro/d/oferta/cfmoto-625l-touring-2022-eps-t3b-IDkOS7T.html",
       "price_str": "37 821,92 lei\n\nPrețul e negociabil",
@@ -6312,19 +6234,6 @@
       "capacitate": "500 cm³",
       "stare": "Utilizat",
       "dotari": "ABS, Controlul tractiunii (ASR), Controlul stabilitatii (ESP), Far LED"
-    },
-    {
-      "title": "ATV CFMOTO CFORCE C5 Touring EPS T3b 2026 | Rate | Leasing",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-c5-touring-eps-t3b-2026-rate-leasing-IDkviGz.html",
-      "price_str": "6 490 €",
-      "price_value": 6490.0,
-      "price_currency": "EUR",
-      "an": 2026,
-      "km": null,
-      "model": null,
-      "capacitate": "498 cm³",
-      "stare": "Nou",
-      "dotari": null
     },
     {
       "title": "Vand Cf moto 625 t3b",
@@ -6444,15 +6353,28 @@
       "dotari": null
     },
     {
-      "title": "ATV CFMOTO CFORCE 625L Touring EPS T3b '26",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-625l-touring-eps-t3b-26-IDfUqcN.html",
-      "price_str": "39 345,31 lei",
-      "price_value": 39345.31,
+      "title": "Vând atv Cf Moto",
+      "link": "https://www.olx.ro/d/oferta/vand-atv-cf-moto-IDkP6Eh.html",
+      "price_str": "33 094,18 lei\n\nPrețul e negociabil",
+      "price_value": 33094.18,
+      "price_currency": "RON",
+      "an": 2025,
+      "km": 870,
+      "model": null,
+      "capacitate": "520 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
+      "title": "ATV CFMOTO CFORCE C5 Touring EPS T3b 2026 | Rate | Leasing",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-c5-touring-eps-t3b-2026-rate-leasing-IDkviGz.html",
+      "price_str": "34 092,26 lei",
+      "price_value": 34092.26,
       "price_currency": "RON",
       "an": 2026,
       "km": null,
       "model": null,
-      "capacitate": "580 cm³",
+      "capacitate": "498 cm³",
       "stare": "Nou",
       "dotari": null
     },
@@ -6561,19 +6483,6 @@
       "dotari": null
     },
     {
-      "title": "Atv Cf Moto 450 L7e",
-      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-450-l7e-IDkLh9c.html",
-      "price_str": "19 173,61 lei\n\nPrețul e negociabil",
-      "price_value": 19173.61,
-      "price_currency": "RON",
-      "an": 2017,
-      "km": 7000,
-      "model": null,
-      "capacitate": "450 cm³",
-      "stare": "Utilizat",
-      "dotari": "Far LED, Far Xenon"
-    },
-    {
       "title": "CF Moto 520L 2021",
       "link": "https://www.olx.ro/d/oferta/cf-moto-520l-2021-IDkAlcS.html",
       "price_str": "27 315,83 lei\n\nPrețul e negociabil",
@@ -6596,19 +6505,6 @@
       "km": null,
       "model": null,
       "capacitate": null,
-      "stare": null,
-      "dotari": null
-    },
-    {
-      "title": "Cf moto 1000 /nu can am /nu polaris",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-1000-nu-can-am-nu-polaris-IDksrFd.html",
-      "price_str": "43 547,74 lei",
-      "price_value": 43547.74,
-      "price_currency": "RON",
-      "an": 2022,
-      "km": null,
-      "model": null,
-      "capacitate": "1 000 cm³",
       "stare": null,
       "dotari": null
     },
@@ -6639,6 +6535,19 @@
       "dotari": "Bluetooth, Far LED"
     },
     {
+      "title": "Atv Cf Moto 450 L7e",
+      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-450-l7e-IDkLh9c.html",
+      "price_str": "19 173,61 lei\n\nPrețul e negociabil",
+      "price_value": 19173.61,
+      "price_currency": "RON",
+      "an": 2017,
+      "km": 7000,
+      "model": null,
+      "capacitate": "450 cm³",
+      "stare": "Utilizat",
+      "dotari": "Far LED, Far Xenon"
+    },
+    {
       "title": "CF Moto 550L 2016",
       "link": "https://www.olx.ro/d/oferta/cf-moto-550l-2016-IDjHpka.html",
       "price_str": "25 214,62 lei\n\nPrețul e negociabil",
@@ -6665,16 +6574,16 @@
       "dotari": null
     },
     {
-      "title": "ATV copii CFMOTO CForce ev 110",
-      "link": "https://www.olx.ro/d/oferta/atv-copii-cfmoto-cforce-ev-110-IDhq8bS.html",
-      "price_str": "15 706,60 lei",
-      "price_value": 15706.6,
+      "title": "Cf moto 1000 /nu can am /nu polaris",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-1000-nu-can-am-nu-polaris-IDksrFd.html",
+      "price_str": "43 547,74 lei",
+      "price_value": 43547.74,
       "price_currency": "RON",
-      "an": 2025,
+      "an": 2022,
       "km": null,
       "model": null,
-      "capacitate": null,
-      "stare": "Nou",
+      "capacitate": "1 000 cm³",
+      "stare": null,
       "dotari": null
     },
     {
@@ -6769,6 +6678,19 @@
       "dotari": null
     },
     {
+      "title": "ATV copii CFMOTO CForce ev 110",
+      "link": "https://www.olx.ro/d/oferta/atv-copii-cfmoto-cforce-ev-110-IDhq8bS.html",
+      "price_str": "15 706,60 lei",
+      "price_value": 15706.6,
+      "price_currency": "RON",
+      "an": 2025,
+      "km": null,
+      "model": null,
+      "capacitate": null,
+      "stare": "Nou",
+      "dotari": null
+    },
+    {
       "title": "Vând cf moto 450",
       "link": "https://www.olx.ro/d/oferta/vand-cf-moto-450-IDkyEuD.html",
       "price_str": "27 315,83 lei\n\nPrețul e negociabil",
@@ -6795,19 +6717,6 @@
       "dotari": "ABS"
     },
     {
-      "title": "ATV Cfmoto 1000 CC",
-      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-1000-cc-IDk8zQ8.html",
-      "price_str": "60 410,02 lei",
-      "price_value": 60410.02,
-      "price_currency": "RON",
-      "an": 2021,
-      "km": 1300,
-      "model": null,
-      "capacitate": "1 000 cm³",
-      "stare": "Utilizat",
-      "dotari": null
-    },
-    {
       "title": "Atv CF Moto 850 X8",
       "link": "https://www.olx.ro/d/oferta/atv-cf-moto-850-x8-IDkPerV.html",
       "price_str": "49 903,93 lei",
@@ -6819,6 +6728,19 @@
       "capacitate": "850 cm³",
       "stare": "Utilizat",
       "dotari": "Far LED"
+    },
+    {
+      "title": "SSV CFMOTO Z10 ZFORCE 1000 Sport R 2026 | Finantare disponibila",
+      "link": "https://www.olx.ro/d/oferta/ssv-cfmoto-z10-zforce-1000-sport-r-2026-finantare-disponibila-IDiDQWQ.html",
+      "price_str": "83 470,89 lei",
+      "price_value": 83470.89,
+      "price_currency": "RON",
+      "an": 2026,
+      "km": null,
+      "model": null,
+      "capacitate": "963 cm³",
+      "stare": "Nou",
+      "dotari": null
     },
     {
       "title": "CF Moto 650MT ABS CF Moto 650MT, an 2021, 26000 km",
@@ -6873,19 +6795,6 @@
       "dotari": "ABS, Alarma, Controlul tractiunii (ASR), Bluetooth, Imobilizator electronic, Suspensie controlata electronic, Controlul stabilitatii (ESP), Senzori presiune roti, Far Xenon"
     },
     {
-      "title": "CF Moto 650 GT  2023",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-650-gt-2023-IDkRABj.html",
-      "price_str": "18 385,66 lei\n\nPrețul e negociabil",
-      "price_value": 18385.66,
-      "price_currency": "RON",
-      "an": 2023,
-      "km": 14000,
-      "model": "650 GT ABS",
-      "capacitate": "649 cm³",
-      "stare": "Utilizat",
-      "dotari": "ABS, Bluetooth, Far LED, Imobilizator electronic"
-    },
-    {
       "title": "CFMoto 125NK 2025",
       "link": "https://www.olx.ro/d/oferta/cfmoto-125nk-2025-IDkRyWk.html",
       "price_str": "14 183,22 lei\n\nPrețul e negociabil",
@@ -6897,6 +6806,19 @@
       "capacitate": "124 cm³",
       "stare": "Utilizat",
       "dotari": "Alarma, Controlul tractiunii (ASR), Bluetooth, Far LED, ABS"
+    },
+    {
+      "title": "CF Moto 650 GT  2023",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-650-gt-2023-IDkRABj.html",
+      "price_str": "18 385,66 lei\n\nPrețul e negociabil",
+      "price_value": 18385.66,
+      "price_currency": "RON",
+      "an": 2023,
+      "km": 14000,
+      "model": "650 GT ABS",
+      "capacitate": "649 cm³",
+      "stare": "Utilizat",
+      "dotari": "ABS, Bluetooth, Far LED, Imobilizator electronic"
     },
     {
       "title": "Motocicleta CFMOTO 450SR ABS '26",
@@ -7133,19 +7055,6 @@
       "dotari": "ABS, Controlul tractiunii (ASR), Bluetooth, Far LED"
     },
     {
-      "title": "Vand CFMoto 850cm3, ca NOU, garantie inca 4 ani si jumatate,",
-      "link": "https://www.olx.ro/d/oferta/vand-cfmoto-850cm3-ca-nou-garantie-inca-4-ani-si-jumatate-IDkRgs0.html",
-      "price_str": "46 489,45 lei\n\nPrețul e negociabil",
-      "price_value": 46489.45,
-      "price_currency": "RON",
-      "an": 2025,
-      "km": 1960,
-      "model": null,
-      "capacitate": "800 cm³",
-      "stare": "Utilizat",
-      "dotari": "Bluetooth, Far LED, Controlul stabilitatii (ESP), Imobilizator electronic, ABS"
-    },
-    {
       "title": "cfmoto 450mt 2025",
       "link": "https://www.olx.ro/d/oferta/cfmoto-450mt-2025-IDkRITu.html",
       "price_str": "30 467,66 lei",
@@ -7183,6 +7092,19 @@
       "capacitate": "800 cm³",
       "stare": "Utilizat",
       "dotari": null
+    },
+    {
+      "title": "Vand CFMoto 850cm3, ca NOU, garantie inca 4 ani si jumatate,",
+      "link": "https://www.olx.ro/d/oferta/vand-cfmoto-850cm3-ca-nou-garantie-inca-4-ani-si-jumatate-IDkRgs0.html",
+      "price_str": "46 489,45 lei\n\nPrețul e negociabil",
+      "price_value": 46489.45,
+      "price_currency": "RON",
+      "an": 2025,
+      "km": 1960,
+      "model": null,
+      "capacitate": "800 cm³",
+      "stare": "Utilizat",
+      "dotari": "Bluetooth, Far LED, Controlul stabilitatii (ESP), Imobilizator electronic, ABS"
     },
     {
       "title": "CFMOTO 800NK Advanced",
@@ -7289,19 +7211,6 @@
       "dotari": "ABS, Bluetooth, Controlul stabilitatii (ESP), Far LED"
     },
     {
-      "title": "CF MOTO 650 TK 2016 8400 km!",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-650-tk-2016-8400-km-IDkRAgD.html",
-      "price_str": "13 657,92 lei",
-      "price_value": 13657.92,
-      "price_currency": "RON",
-      "an": 2016,
-      "km": 8500,
-      "model": "650 GT ABS",
-      "capacitate": "650 cm³",
-      "stare": "Utilizat",
-      "dotari": "ABS, Far LED, Far Xenon"
-    },
-    {
       "title": "Vând sau schimb cu ceva mai mare, Cfmoto 250NK An 2020, ABS, injecție",
       "link": "https://www.olx.ro/d/oferta/vand-sau-schimb-cu-ceva-mai-mare-cfmoto-250nk-an-2020-abs-injectie-IDkPr1G.html",
       "price_str": "11 294,05 lei\n\nPrețul e negociabil",
@@ -7352,6 +7261,19 @@
       "capacitate": "675 cm³",
       "stare": "Utilizat",
       "dotari": null
+    },
+    {
+      "title": "CF MOTO 650 TK 2016 8400 km!",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-650-tk-2016-8400-km-IDkRAgD.html",
+      "price_str": "13 657,92 lei",
+      "price_value": 13657.92,
+      "price_currency": "RON",
+      "an": 2016,
+      "km": 8500,
+      "model": "650 GT ABS",
+      "capacitate": "650 cm³",
+      "stare": "Utilizat",
+      "dotari": "ABS, Far LED, Far Xenon"
     },
     {
       "title": "CFMOTO 800MT-X High Seat 2025",
@@ -7445,19 +7367,6 @@
       "dotari": null
     },
     {
-      "title": "Atv Cf Moto  CFORCE 1000 2023",
-      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-cforce-1000-2023-IDkNnWu.html",
-      "price_str": "47 277,41 lei",
-      "price_value": 47277.41,
-      "price_currency": "RON",
-      "an": 2023,
-      "km": 3200,
-      "model": null,
-      "capacitate": "1 000 cm³",
-      "stare": "Utilizat",
-      "dotari": null
-    },
-    {
       "title": "Motocicleta CFMOTO 450SR ABS '26",
       "link": "https://www.olx.ro/d/oferta/motocicleta-cfmoto-450sr-abs-26-IDiRFtx.html",
       "price_str": "28 839,22 lei",
@@ -7469,19 +7378,6 @@
       "capacitate": "450 cm³",
       "stare": "Nou",
       "dotari": null
-    },
-    {
-      "title": "Vând motocicleta CFMoto 450 MT",
-      "link": "https://www.olx.ro/d/oferta/vand-motocicleta-cfmoto-450-mt-IDkRMfD.html",
-      "price_str": "27 578,49 lei",
-      "price_value": 27578.49,
-      "price_currency": "RON",
-      "an": 2024,
-      "km": 2300,
-      "model": null,
-      "capacitate": "450 cm³",
-      "stare": "Utilizat",
-      "dotari": "ABS, Bluetooth, Controlul tractiunii (ASR), Far LED"
     },
     {
       "title": "Motocicleta CFMOTO 675SR R '26",
@@ -7690,6 +7586,19 @@
       "capacitate": "695 cm³",
       "stare": "Utilizat",
       "dotari": "ABS, Controlul tractiunii (ASR), Pilot automat, Imobilizator electronic, Far LED"
+    },
+    {
+      "title": "Vând motocicleta CFMoto 450 MT",
+      "link": "https://www.olx.ro/d/oferta/vand-motocicleta-cfmoto-450-mt-IDkRMfD.html",
+      "price_str": "27 578,49 lei",
+      "price_value": 27578.49,
+      "price_currency": "RON",
+      "an": 2024,
+      "km": 2300,
+      "model": null,
+      "capacitate": "450 cm³",
+      "stare": "Utilizat",
+      "dotari": "ABS, Bluetooth, Controlul tractiunii (ASR), Far LED"
     },
     {
       "title": "Se vinde CFMOTO 650NK ABS  2022 - Bucuresti",
@@ -8004,6 +7913,19 @@
       "dotari": null
     },
     {
+      "title": "CF Moto 450MT 49HP",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-450mt-49hp-IDkGHGh.html",
+      "price_str": "37 548,77 lei\n\nPrețul e negociabil",
+      "price_value": 37548.77,
+      "price_currency": "RON",
+      "an": 2025,
+      "km": 2000,
+      "model": "450 MT",
+      "capacitate": "449 cm³",
+      "stare": null,
+      "dotari": "ABS, Alarma, Controlul tractiunii (ASR), Bluetooth, Imobilizator electronic, Controlul stabilitatii (ESP), Keyless go, Far LED"
+    },
+    {
       "title": "Cfmoto Mt450 2025 ca nouă 300 km",
       "link": "https://www.olx.ro/d/oferta/cfmoto-mt450-2025-ca-noua-300-km-IDkNoO5.html",
       "price_str": "26 790,53 lei",
@@ -8015,19 +7937,6 @@
       "capacitate": "450 cm³",
       "stare": "Utilizat",
       "dotari": null
-    },
-    {
-      "title": "CFMOTO 800NK Advanced 2023 cu Top Case si doar 3363km",
-      "link": "https://www.olx.ro/d/oferta/cfmoto-800nk-advanced-2023-cu-top-case-si-doar-3363km-IDkOaDl.html",
-      "price_str": "31 518,27 lei\n\nPrețul e negociabil",
-      "price_value": 31518.27,
-      "price_currency": "RON",
-      "an": 2023,
-      "km": 3363,
-      "model": "800 NK Advanced",
-      "capacitate": "799 cm³",
-      "stare": "Utilizat",
-      "dotari": "ABS, Alarma, Controlul tractiunii (ASR), Bluetooth, Pilot automat, Keyless go, Far LED"
     },
     {
       "title": "Motocicleta CFMOTO 675SR R '26",
@@ -8052,6 +7961,19 @@
       "km": 13000,
       "model": "Altul",
       "capacitate": "799 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
+      "title": "Atv cf moto cforce 550 eps servodirectie",
+      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-cforce-550-eps-servodirectie-IDkNAKC.html",
+      "price_str": "26 259,97 lei",
+      "price_value": 26259.97,
+      "price_currency": "RON",
+      "an": 2017,
+      "km": 6200,
+      "model": null,
+      "capacitate": "500 cm³",
       "stare": "Utilizat",
       "dotari": null
     },
@@ -8134,19 +8056,6 @@
       "dotari": "ABS, Controlul tractiunii (ASR), Bluetooth, Far LED"
     },
     {
-      "title": "CF MOTO cl-c 450 BOBBER ‘25",
-      "link": "https://www.olx.ro/d/oferta/cf-moto-cl-c-450-bobber-25-IDkwu5i.html",
-      "price_str": "25 500 lei",
-      "price_value": 25500.0,
-      "price_currency": "RON",
-      "an": 2025,
-      "km": 1500,
-      "model": "450 CL-C",
-      "capacitate": "450 cm³",
-      "stare": "Utilizat",
-      "dotari": "ABS, Bluetooth, Far LED, Senzori presiune roti"
-    },
-    {
       "title": "CFMOTO 800NK Advanced categoria A2 in acte",
       "link": "https://www.olx.ro/d/oferta/cfmoto-800nk-advanced-categoria-a2-in-acte-IDkRaQ8.html",
       "price_str": "32 568,88 lei\n\nPrețul e negociabil",
@@ -8197,6 +8106,32 @@
       "capacitate": "799 cm³",
       "stare": "Utilizat",
       "dotari": null
+    },
+    {
+      "title": "Vand CF Moto 2024",
+      "link": "https://www.olx.ro/d/oferta/vand-cf-moto-2024-IDkvK8m.html",
+      "price_str": "35 983,36 lei\n\nPrețul e negociabil",
+      "price_value": 35983.36,
+      "price_currency": "RON",
+      "an": 2024,
+      "km": 2200,
+      "model": null,
+      "capacitate": "520 cm³",
+      "stare": "Utilizat",
+      "dotari": null
+    },
+    {
+      "title": "CF MOTO cl-c 450 BOBBER ‘25",
+      "link": "https://www.olx.ro/d/oferta/cf-moto-cl-c-450-bobber-25-IDkwu5i.html",
+      "price_str": "25 500 lei",
+      "price_value": 25500.0,
+      "price_currency": "RON",
+      "an": 2025,
+      "km": 1500,
+      "model": "450 CL-C",
+      "capacitate": "450 cm³",
+      "stare": "Utilizat",
+      "dotari": "ABS, Bluetooth, Far LED, Senzori presiune roti"
     },
     {
       "title": "CFMOTO 650NK 2021 ABS – 1.800 km – Garanție 3 ani – Ca nouă",
@@ -8472,6 +8407,19 @@
       "dotari": null
     },
     {
+      "title": "ATV CFMOTO CForce 110 Fun 2025 copii | Finantare rapida",
+      "link": "https://www.olx.ro/d/oferta/atv-cfmoto-cforce-110-fun-2025-copii-finantare-rapida-IDhz85i.html",
+      "price_str": "8 877,65 lei",
+      "price_value": 8877.65,
+      "price_currency": "RON",
+      "an": 2024,
+      "km": null,
+      "model": null,
+      "capacitate": "110 cm³",
+      "stare": "Nou",
+      "dotari": null
+    },
+    {
       "title": "CF Moto CLX-700 Sport",
       "link": "https://www.olx.ro/d/oferta/cf-moto-clx-700-sport-IDkzuSn.html",
       "price_str": "22 588,09 lei\n\nPrețul e negociabil",
@@ -8550,19 +8498,6 @@
       "dotari": null
     },
     {
-      "title": "CFMOTO 300sr 2023",
-      "link": "https://www.olx.ro/d/oferta/cfmoto-300sr-2023-IDkOgCF.html",
-      "price_str": "Schimb",
-      "price_value": null,
-      "price_currency": null,
-      "an": 2023,
-      "km": 14500,
-      "model": "300 SR ABS",
-      "capacitate": "300 cm³",
-      "stare": null,
-      "dotari": null
-    },
-    {
       "title": "CF Moto 250SR",
       "link": "https://www.autovit.ro/anunt/cf-moto-250sr-ID7HNT2A.html",
       "price_str": null,
@@ -8611,6 +8546,19 @@
       "km": null,
       "model": null,
       "capacitate": null,
+      "stare": null,
+      "dotari": null
+    },
+    {
+      "title": "CFMOTO 300sr 2023",
+      "link": "https://www.olx.ro/d/oferta/cfmoto-300sr-2023-IDkOgCF.html",
+      "price_str": "Schimb",
+      "price_value": null,
+      "price_currency": null,
+      "an": 2023,
+      "km": 14500,
+      "model": "300 SR ABS",
+      "capacitate": "300 cm³",
       "stare": null,
       "dotari": null
     },
@@ -8732,6 +8680,19 @@
       "dotari": "ABS, Pilot automat, Far LED"
     },
     {
+      "title": "Goes 500 L fabricat de Cf Moto",
+      "link": "https://www.olx.ro/d/oferta/goes-500-l-fabricat-de-cf-moto-IDkMJWA.html",
+      "price_str": "26 265,23 lei",
+      "price_value": 26265.23,
+      "price_currency": "RON",
+      "an": 2024,
+      "km": 1600,
+      "model": null,
+      "capacitate": "500 cm³",
+      "stare": null,
+      "dotari": null
+    },
+    {
       "title": "ATV CF moto850XC",
       "link": "https://www.olx.ro/d/oferta/atv-cf-moto850xc-IDkNXPB.html",
       "price_str": "39 923,14 lei",
@@ -8758,19 +8719,6 @@
       "dotari": null
     },
     {
-      "title": "Motocicleta CFMOTO 675NK ABS Champion Blue 2026 | Finantare rapida",
-      "link": "https://www.olx.ro/d/oferta/motocicleta-cfmoto-675nk-abs-champion-blue-2026-finantare-rapida-IDkQyhw.html",
-      "price_str": "31 465,74 lei",
-      "price_value": 31465.74,
-      "price_currency": "RON",
-      "an": 2026,
-      "km": null,
-      "model": null,
-      "capacitate": "675 cm³",
-      "stare": "Nou",
-      "dotari": null
-    },
-    {
       "title": "cfmoto nk 125 garantie 5 ani",
       "link": "https://www.olx.ro/d/oferta/cfmoto-nk-125-garantie-5-ani-IDkO2jR.html",
       "price_str": "13 920,57 lei\n\nPrețul e negociabil",
@@ -8782,6 +8730,19 @@
       "capacitate": "125 cm³",
       "stare": "Utilizat",
       "dotari": "ABS, Bluetooth, Far LED, Far Xenon"
+    },
+    {
+      "title": "Motocicleta CFMOTO 675NK ABS Champion Blue 2026 | Finantare rapida",
+      "link": "https://www.olx.ro/d/oferta/motocicleta-cfmoto-675nk-abs-champion-blue-2026-finantare-rapida-IDkQyhw.html",
+      "price_str": "31 465,74 lei",
+      "price_value": 31465.74,
+      "price_currency": "RON",
+      "an": 2026,
+      "km": null,
+      "model": null,
+      "capacitate": "675 cm³",
+      "stare": "Nou",
+      "dotari": null
     },
     {
       "title": "Motocicleta CFMOTO 450SR ABS '26",
@@ -8836,19 +8797,6 @@
       "dotari": null
     },
     {
-      "title": "CFMOTO CForce 520L X5 EPS Euro 5 – An 2023",
-      "link": "https://www.olx.ro/d/oferta/cfmoto-cforce-520l-x5-eps-euro-5-an-2023-IDkCCFB.html",
-      "price_str": "30 467,66 lei\n\nPrețul e negociabil",
-      "price_value": 30467.66,
-      "price_currency": "RON",
-      "an": 2023,
-      "km": 4040,
-      "model": null,
-      "capacitate": "500 cm³",
-      "stare": "Utilizat",
-      "dotari": "Far LED"
-    },
-    {
       "title": "Vând CFMoto 300NK 2022",
       "link": "https://www.olx.ro/d/oferta/vand-cfmoto-300nk-2022-IDkRgof.html",
       "price_str": "16 809,74 lei\n\nPrețul e negociabil",
@@ -8862,17 +8810,17 @@
       "dotari": "ABS, Bluetooth, Far LED"
     },
     {
-      "title": "CFmoto 800mt explorer edition 2025",
-      "link": "https://www.olx.ro/d/oferta/cfmoto-800mt-explorer-edition-2025-IDkMUe2.html",
-      "price_str": "39 345,31 lei\n\nPrețul e negociabil",
-      "price_value": 39345.31,
+      "title": "Vand Cfmoto 450l",
+      "link": "https://www.olx.ro/d/oferta/vand-cfmoto-450l-IDkRhLZ.html",
+      "price_str": "19 436,27 lei\n\nPrețul e negociabil",
+      "price_value": 19436.27,
       "price_currency": "RON",
-      "an": 2025,
-      "km": 4888,
-      "model": "800 MT Explore Edition",
-      "capacitate": "799 cm³",
+      "an": 2017,
+      "km": 10000,
+      "model": "450 MT",
+      "capacitate": "450 cm³",
       "stare": "Utilizat",
-      "dotari": null
+      "dotari": "Alarma"
     },
     {
       "title": "Vand ATV cfmoto x10",
@@ -8940,6 +8888,32 @@
       "dotari": "ABS"
     },
     {
+      "title": "ATV ‼️ CF MOTO GOES 1000 ‼️  90km impecabil CA NOU ( nu can am tgb linhai suzuki utv segway )",
+      "link": "https://www.olx.ro/d/oferta/atv-cf-moto-goes-1000-90km-impecabil-ca-nou-nu-can-am-tgb-linhai-suzuki-utv-segway-IDkPie7.html",
+      "price_str": "52 477,92 lei",
+      "price_value": 52477.92,
+      "price_currency": "RON",
+      "an": 2026,
+      "km": 90,
+      "model": null,
+      "capacitate": "1 000 cm³",
+      "stare": "Nou",
+      "dotari": null
+    },
+    {
+      "title": "CFMOTO CForce 520L X5 EPS Euro 5 – An 2023",
+      "link": "https://www.olx.ro/d/oferta/cfmoto-cforce-520l-x5-eps-euro-5-an-2023-IDkCCFB.html",
+      "price_str": "30 467,66 lei\n\nPrețul e negociabil",
+      "price_value": 30467.66,
+      "price_currency": "RON",
+      "an": 2023,
+      "km": 4040,
+      "model": null,
+      "capacitate": "500 cm³",
+      "stare": "Utilizat",
+      "dotari": "Far LED"
+    },
+    {
       "title": "Atv CFMOTO X10 Premium T3B 2025 – Full OFF-ROAD | Stare impecabilă.",
       "link": "https://www.olx.ro/d/oferta/atv-cfmoto-x10-premium-t3b-2025-full-off-road-stare-impecabila-IDkOhQf.html",
       "price_str": "56 207,58 lei",
@@ -8951,6 +8925,19 @@
       "capacitate": "1 000 cm³",
       "stare": "Utilizat",
       "dotari": "Bluetooth, Far LED"
+    },
+    {
+      "title": "De vânzare un atv cfmoto 1000 modificat",
+      "link": "https://www.olx.ro/d/oferta/de-vanzare-un-atv-cfmoto-1000-modificat-IDkQFAc.html",
+      "price_str": "39 300 lei\n\nPrețul e negociabil",
+      "price_value": 39300.0,
+      "price_currency": "RON",
+      "an": 2021,
+      "km": 12650,
+      "model": null,
+      "capacitate": "1 000 cm³",
+      "stare": "Utilizat",
+      "dotari": null
     },
     {
       "title": "CFMOTO 700MT – Full Touring Pack SHAD – Michelin Road 6 – Garanție",
@@ -9042,19 +9029,6 @@
       "capacitate": "700 cm³",
       "stare": null,
       "dotari": "ABS, Alarma, Bluetooth, Imobilizator electronic, Far LED"
-    },
-    {
-      "title": "Vand buggy cf moto",
-      "link": "https://www.olx.ro/d/oferta/vand-buggy-cf-moto-IDk1KTC.html",
-      "price_str": "28 891,75 lei\n\nPrețul e negociabil",
-      "price_value": 28891.75,
-      "price_currency": "RON",
-      "an": 2015,
-      "km": 7600,
-      "model": null,
-      "capacitate": "625 cm³",
-      "stare": null,
-      "dotari": null
     }
   ]
 }
